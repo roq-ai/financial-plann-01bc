@@ -1,0 +1,3042 @@
+[
+  {
+    "financial_program": [
+      {
+        "id": "e5e26390-9d8a-4fff-956b-921f1e4dfd8d",
+        "name": "Retirement Savings",
+        "description": "A program to save for retirement",
+        "start_date": "2023-10-13T09:49:06.337Z",
+        "end_date": "2023-10-13T13:58:03.080Z",
+        "created_at": "2023-10-13T17:55:16.318Z",
+        "updated_at": "2023-10-14T02:48:36.188Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8c78f59c-ea41-4e74-8cf4-249ccc3038f2",
+        "name": "Education Fund",
+        "description": "A fund to support education expenses",
+        "start_date": "2023-10-13T08:27:03.066Z",
+        "end_date": "2023-10-13T08:50:08.311Z",
+        "created_at": "2023-10-14T00:13:22.476Z",
+        "updated_at": "2023-10-14T01:41:00.971Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "46637a3d-8405-435c-bd03-ea1be4836cdd",
+        "name": "Investment Portfolio",
+        "description": "A portfolio for investment purposes",
+        "start_date": "2023-10-13T12:57:57.009Z",
+        "end_date": "2023-10-13T22:09:27.173Z",
+        "created_at": "2023-10-13T06:49:44.031Z",
+        "updated_at": "2023-10-13T05:27:56.907Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "42010876-c42c-4203-96aa-f0b2cdcb480e",
+        "name": "Debt Management",
+        "description": "A strategy to manage and reduce debt",
+        "start_date": "2023-10-13T09:46:19.252Z",
+        "end_date": "2023-10-13T08:02:07.239Z",
+        "created_at": "2023-10-13T14:01:50.892Z",
+        "updated_at": "2023-10-13T21:20:34.175Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "79e2ea7c-ecf5-44be-abb7-0dc491d50b1e",
+        "name": "Financial Planning",
+        "description": "A comprehensive financial planning program",
+        "start_date": "2023-10-13T13:38:18.361Z",
+        "end_date": "2023-10-14T00:10:00.456Z",
+        "created_at": "2023-10-13T19:09:01.891Z",
+        "updated_at": "2023-10-13T05:41:58.706Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "af21bf80-168b-4ef8-b807-4bd1708be128",
+        "name": "Expense Reimbursement",
+        "description": "A procedure to reimburse employee expenses",
+        "implementation_date": "2023-10-13T19:34:38.340Z",
+        "created_at": "2023-10-13T12:49:47.483Z",
+        "updated_at": "2023-10-14T03:03:27.579Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2ad80769-d505-4ba9-ad83-52e97fb49617",
+        "name": "Budget Approval",
+        "description": "A process to approve budgets",
+        "implementation_date": "2023-10-14T03:23:59.650Z",
+        "created_at": "2023-10-13T16:25:12.856Z",
+        "updated_at": "2023-10-13T10:07:45.296Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "73948f9c-a667-47e6-83c4-30e9859f94ee",
+        "name": "Invoice Processing",
+        "description": "A system to process invoices",
+        "implementation_date": "2023-10-13T09:18:12.881Z",
+        "created_at": "2023-10-13T09:51:41.683Z",
+        "updated_at": "2023-10-14T04:11:16.233Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "63e9acab-1485-46c8-b527-fdeed278cfdf",
+        "name": "Vendor Payment",
+        "description": "A method to make vendor payments",
+        "implementation_date": "2023-10-13T11:58:55.702Z",
+        "created_at": "2023-10-13T09:25:23.286Z",
+        "updated_at": "2023-10-13T19:34:51.740Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6fe34b08-8f94-4b90-9945-12330c32d287",
+        "name": "Financial Reporting",
+        "description": "A reporting mechanism for financial data",
+        "implementation_date": "2023-10-13T17:11:30.549Z",
+        "created_at": "2023-10-14T04:51:25.280Z",
+        "updated_at": "2023-10-13T07:16:01.098Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "a26f671e-2f6e-4cef-8c54-762bf0b1d37b",
+        "name": "Expense Policy",
+        "description": "A policy to govern expense management",
+        "implementation_date": "2023-10-13T18:28:54.191Z",
+        "created_at": "2023-10-14T03:12:04.961Z",
+        "updated_at": "2023-10-13T18:43:34.744Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f2cbd1db-86ae-4d18-a1a9-7dd9a434587d",
+        "name": "Budget Policy",
+        "description": "A policy to guide budgeting processes",
+        "implementation_date": "2023-10-13T19:51:23.158Z",
+        "created_at": "2023-10-13T18:25:32.347Z",
+        "updated_at": "2023-10-13T23:21:17.072Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2d89fd03-b19c-432f-956e-c6dc3324e0fa",
+        "name": "Payment Policy",
+        "description": "A policy for payment procedures",
+        "implementation_date": "2023-10-13T07:27:24.456Z",
+        "created_at": "2023-10-14T03:12:39.826Z",
+        "updated_at": "2023-10-13T16:46:27.252Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e7a26ef8-1da3-4732-ba8d-b785a41e0f95",
+        "name": "Financial Control Policy",
+        "description": "A policy to ensure financial controls",
+        "implementation_date": "2023-10-13T08:11:33.699Z",
+        "created_at": "2023-10-13T08:00:54.814Z",
+        "updated_at": "2023-10-13T07:07:32.641Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "960d34c8-9a19-4ba1-a704-f4f6dccc2532",
+        "name": "Risk Management Policy",
+        "description": "A policy to manage risks",
+        "implementation_date": "2023-10-13T23:34:47.580Z",
+        "created_at": "2023-10-13T20:12:25.243Z",
+        "updated_at": "2023-10-13T10:47:17.606Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "c5a89bc8-fec1-4b65-8ce9-c45c29304dbd",
+        "title": "Increase Profit Margin",
+        "description": "A goal to increase the company's profit margin",
+        "target_amount": 3947,
+        "due_date": "2023-10-13T09:23:23.379Z",
+        "created_at": "2023-10-13T10:32:39.107Z",
+        "updated_at": "2023-10-13T12:25:45.443Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e6967330-7958-4584-ab9e-4e8bd8ffa827",
+        "title": "Reduce Operating Costs",
+        "description": "A goal to reduce operating costs",
+        "target_amount": 35035,
+        "due_date": "2023-10-14T04:55:23.453Z",
+        "created_at": "2023-10-13T21:22:47.315Z",
+        "updated_at": "2023-10-13T18:33:22.857Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "44e353d9-f47c-447d-b864-2bc3964ccdec",
+        "title": "Improve Cash Flow",
+        "description": "A goal to improve cash flow",
+        "target_amount": 12134,
+        "due_date": "2023-10-13T15:47:14.243Z",
+        "created_at": "2023-10-13T12:19:54.774Z",
+        "updated_at": "2023-10-13T19:43:01.294Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ef962034-f2b2-4ae2-a2a6-f3cf5809589c",
+        "title": "Expand Market Share",
+        "description": "A goal to expand market share",
+        "target_amount": 30615,
+        "due_date": "2023-10-13T16:20:32.948Z",
+        "created_at": "2023-10-13T22:48:56.214Z",
+        "updated_at": "2023-10-14T04:25:49.205Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ae893d65-ee62-4f68-9493-de23e45b9371",
+        "title": "Enhance Customer Satisfaction",
+        "description": "A goal to enhance customer satisfaction",
+        "target_amount": 39118,
+        "due_date": "2023-10-13T20:53:44.467Z",
+        "created_at": "2023-10-13T08:37:47.389Z",
+        "updated_at": "2023-10-13T16:14:17.900Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "7e5cb2cf-f73d-43f8-b506-07743fe9e4f2",
+        "name": "Marketing Budget",
+        "description": "A budget for marketing initiatives",
+        "total_amount": 20685,
+        "start_date": "2023-10-13T14:55:19.285Z",
+        "end_date": "2023-10-13T16:31:05.962Z",
+        "created_at": "2023-10-13T19:27:32.908Z",
+        "updated_at": "2023-10-13T13:04:24.875Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2840a1a1-f542-4495-8bb4-d36af5c24b1e",
+        "name": "Research and Development Budget",
+        "description": "A budget for research and development projects",
+        "total_amount": 60516,
+        "start_date": "2023-10-14T04:44:43.096Z",
+        "end_date": "2023-10-14T02:38:57.484Z",
+        "created_at": "2023-10-13T21:22:23.050Z",
+        "updated_at": "2023-10-14T03:18:42.736Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "19dda7d3-26f5-47b7-b1f7-78273e569634",
+        "name": "Operations Budget",
+        "description": "A budget for operational expenses",
+        "total_amount": 764,
+        "start_date": "2023-10-13T11:27:46.122Z",
+        "end_date": "2023-10-13T06:01:09.528Z",
+        "created_at": "2023-10-14T02:03:53.511Z",
+        "updated_at": "2023-10-14T03:04:38.057Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8d6ea00e-1d56-429a-9474-c2770123eb65",
+        "name": "IT Budget",
+        "description": "A budget for IT infrastructure and software",
+        "total_amount": 13379,
+        "start_date": "2023-10-13T21:29:04.195Z",
+        "end_date": "2023-10-13T08:45:47.113Z",
+        "created_at": "2023-10-13T12:03:01.129Z",
+        "updated_at": "2023-10-13T14:31:44.786Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8e364125-6ec2-4af0-b05f-828e7cda0168",
+        "name": "Training and Development Budget",
+        "description": "A budget for employee training and development",
+        "total_amount": 32318,
+        "start_date": "2023-10-13T10:47:29.568Z",
+        "end_date": "2023-10-13T06:04:06.948Z",
+        "created_at": "2023-10-13T10:54:28.358Z",
+        "updated_at": "2023-10-13T07:59:16.542Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "559ec7ef-4663-49b2-bdd6-e6ccbc6ce27c",
+        "email": "Kieran_Buckridge@roq.tech",
+        "firstName": "Cassie",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71681976",
+        "tenantId": null
+      },
+      {
+        "reference": "3bce25b5-96b7-453c-8ea4-d55bf56fc5cd",
+        "email": "Lolita_Ruecker15@roq.tech",
+        "firstName": "Horace",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1888564",
+        "tenantId": null
+      },
+      {
+        "reference": "f235f8b2-e240-43b1-b613-a82aa2db2a93",
+        "email": "Emilie.Haag61@roq.tech",
+        "firstName": "Adela",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1108.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1fb9d748-90ad-415e-a8fa-c229c3c89db5",
+        "email": "Bella.Schmitt67@roq.tech",
+        "firstName": "Emilia",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84878177",
+        "tenantId": null
+      },
+      {
+        "reference": "0bac17d3-6fa0-4999-a46f-1d0064dff31f",
+        "email": "Elnora.Weber@roq.tech",
+        "firstName": "Margret",
+        "lastName": "Stroman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12778692",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "7190826e-a7e6-44e9-8df4-d7e3a54db259",
+        "name": "Retirement Planning",
+        "description": "Plan for a comfortable retirement",
+        "start_date": "2023-10-13T05:36:55.860Z",
+        "end_date": "2023-10-13T21:27:39.112Z",
+        "created_at": "2023-10-13T15:49:55.772Z",
+        "updated_at": "2023-10-14T00:09:23.866Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8e129b7a-dee2-4b7a-8bfa-2c6d85e297e2",
+        "name": "Education Savings",
+        "description": "Save for your child's education",
+        "start_date": "2023-10-13T19:12:45.272Z",
+        "end_date": "2023-10-13T23:59:01.588Z",
+        "created_at": "2023-10-13T19:36:29.982Z",
+        "updated_at": "2023-10-13T21:42:32.118Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "89164a2a-d0f6-4fb6-9bd0-23bb93af9755",
+        "name": "Wealth Management",
+        "description": "Grow and protect your wealth",
+        "start_date": "2023-10-13T18:10:49.657Z",
+        "end_date": "2023-10-14T04:16:50.614Z",
+        "created_at": "2023-10-13T11:37:44.446Z",
+        "updated_at": "2023-10-13T06:28:33.879Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "785c3ec6-f39c-453b-b343-845e3438b3df",
+        "name": "Tax Optimization",
+        "description": "Minimize your tax liabilities",
+        "start_date": "2023-10-13T21:46:42.271Z",
+        "end_date": "2023-10-13T17:26:25.467Z",
+        "created_at": "2023-10-13T20:32:51.715Z",
+        "updated_at": "2023-10-13T16:28:38.154Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "5a3a55e7-40c5-44cc-8e9d-4750cb399b07",
+        "name": "Estate Planning",
+        "description": "Plan the distribution of your assets",
+        "start_date": "2023-10-13T12:53:27.753Z",
+        "end_date": "2023-10-14T02:31:55.143Z",
+        "created_at": "2023-10-14T03:28:30.304Z",
+        "updated_at": "2023-10-13T21:33:00.618Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "9ec8b5c7-dfa3-45aa-9edf-bceca930acb5",
+        "name": "Investment Strategy",
+        "description": "Develop a customized investment strategy",
+        "implementation_date": "2023-10-13T20:00:28.286Z",
+        "created_at": "2023-10-13T21:11:28.459Z",
+        "updated_at": "2023-10-14T05:06:26.834Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "16431767-3e34-4301-83c9-cc5330f485a4",
+        "name": "Risk Assessment",
+        "description": "Assess and manage risk tolerance",
+        "implementation_date": "2023-10-14T02:38:39.984Z",
+        "created_at": "2023-10-13T06:30:42.791Z",
+        "updated_at": "2023-10-13T09:50:58.885Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6a618261-2623-499c-8516-54c1e25eb9a8",
+        "name": "Portfolio Diversification",
+        "description": "Diversify your investment portfolio",
+        "implementation_date": "2023-10-14T03:01:17.125Z",
+        "created_at": "2023-10-13T19:44:58.132Z",
+        "updated_at": "2023-10-14T04:38:24.410Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b1c9aeaa-f434-4c37-b2de-131f9b981cfb",
+        "name": "Asset Allocation",
+        "description": "Allocate assets based on goals",
+        "implementation_date": "2023-10-13T21:03:34.925Z",
+        "created_at": "2023-10-13T05:42:07.837Z",
+        "updated_at": "2023-10-13T08:18:26.986Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3a4bed6d-3cc8-4131-8286-488d9eea03e6",
+        "name": "Financial Analysis",
+        "description": "Analyze financial performance",
+        "implementation_date": "2023-10-14T04:55:20.249Z",
+        "created_at": "2023-10-13T06:06:06.953Z",
+        "updated_at": "2023-10-14T04:12:21.495Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "5fa7d96d-7379-4eed-995e-b1dc66c01184",
+        "name": "Code of Ethics",
+        "description": "Adhere to ethical standards",
+        "implementation_date": "2023-10-13T20:36:10.273Z",
+        "created_at": "2023-10-14T00:57:43.441Z",
+        "updated_at": "2023-10-13T18:47:40.323Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e53e3df4-c45b-4060-93ce-7174d134bc40",
+        "name": "Risk Management",
+        "description": "Manage and mitigate risks",
+        "implementation_date": "2023-10-13T13:34:09.046Z",
+        "created_at": "2023-10-13T11:10:11.173Z",
+        "updated_at": "2023-10-13T16:18:13.463Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7c0cfa29-e66e-46fa-89b2-3705bb69d571",
+        "name": "Compliance Framework",
+        "description": "Establish a compliance framework",
+        "implementation_date": "2023-10-14T02:43:46.853Z",
+        "created_at": "2023-10-13T07:00:59.445Z",
+        "updated_at": "2023-10-13T13:00:52.246Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "787373d9-65dd-46b8-a358-15e568a9a36e",
+        "name": "Conflicts of Interest",
+        "description": "Address conflicts of interest",
+        "implementation_date": "2023-10-13T09:33:26.425Z",
+        "created_at": "2023-10-13T18:15:54.946Z",
+        "updated_at": "2023-10-13T14:07:11.545Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c1ebc9c6-5cba-473d-88b5-85dc121041e6",
+        "name": "Client Confidentiality",
+        "description": "Maintain client confidentiality",
+        "implementation_date": "2023-10-13T22:29:10.486Z",
+        "created_at": "2023-10-13T16:10:16.782Z",
+        "updated_at": "2023-10-13T19:57:02.368Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "85ae3d5e-371a-4eb8-8596-66fbec007f88",
+        "title": "Retire at 55",
+        "description": "Achieve financial independence",
+        "target_amount": 28903,
+        "due_date": "2023-10-13T13:00:09.502Z",
+        "created_at": "2023-10-13T19:50:04.304Z",
+        "updated_at": "2023-10-13T14:56:41.522Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7360faab-addc-48f6-92b9-cf9978153fc3",
+        "title": "Buy a Dream Home",
+        "description": "Own a luxurious property",
+        "target_amount": 69028,
+        "due_date": "2023-10-13T05:52:01.020Z",
+        "created_at": "2023-10-14T02:20:47.491Z",
+        "updated_at": "2023-10-13T23:02:48.970Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "73c38bdb-fc84-4b6a-b05a-2f58fa222a23",
+        "title": "Start a Business",
+        "description": "Become an entrepreneur",
+        "target_amount": 83280,
+        "due_date": "2023-10-13T10:50:28.117Z",
+        "created_at": "2023-10-13T14:50:56.768Z",
+        "updated_at": "2023-10-13T22:43:05.647Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ddbd34c4-e5b2-45ed-aac6-5c67e7f6681a",
+        "title": "Travel the World",
+        "description": "Explore different cultures",
+        "target_amount": 71227,
+        "due_date": "2023-10-14T01:27:40.843Z",
+        "created_at": "2023-10-13T19:08:09.809Z",
+        "updated_at": "2023-10-13T16:01:51.551Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "898d815d-fc93-4d22-b4ff-790d0b0c18aa",
+        "title": "Support a Charity",
+        "description": "Make a positive impact",
+        "target_amount": 49357,
+        "due_date": "2023-10-13T12:18:59.998Z",
+        "created_at": "2023-10-13T22:25:27.637Z",
+        "updated_at": "2023-10-13T22:07:14.466Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "1b0859ee-45a0-4566-9574-7cd8850c31f3",
+        "name": "Monthly Expenses",
+        "description": "Manage day-to-day expenses",
+        "total_amount": 52811,
+        "start_date": "2023-10-13T11:27:45.250Z",
+        "end_date": "2023-10-14T01:09:56.366Z",
+        "created_at": "2023-10-13T20:29:18.070Z",
+        "updated_at": "2023-10-13T11:07:56.927Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4f3bf7d7-3098-4c9e-9319-46d310f71e97",
+        "name": "Travel Budget",
+        "description": "Plan for vacations and adventures",
+        "total_amount": 25585,
+        "start_date": "2023-10-13T20:47:20.909Z",
+        "end_date": "2023-10-14T00:19:18.120Z",
+        "created_at": "2023-10-13T12:48:38.255Z",
+        "updated_at": "2023-10-13T08:26:32.654Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8da29ede-4c77-472b-8bb7-799726a0a573",
+        "name": "Home Renovation",
+        "description": "Invest in home improvements",
+        "total_amount": 75948,
+        "start_date": "2023-10-13T21:31:17.294Z",
+        "end_date": "2023-10-14T00:41:34.371Z",
+        "created_at": "2023-10-13T18:43:27.192Z",
+        "updated_at": "2023-10-13T22:23:20.798Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "70a6b73a-6536-4979-af9d-36ebdbb5e048",
+        "name": "Business Development",
+        "description": "Grow your business operations",
+        "total_amount": 32194,
+        "start_date": "2023-10-14T04:01:37.876Z",
+        "end_date": "2023-10-13T13:29:06.437Z",
+        "created_at": "2023-10-13T11:59:16.747Z",
+        "updated_at": "2023-10-13T07:49:23.850Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "da119280-24b7-4f91-a063-acf9d827e030",
+        "name": "Charitable Donations",
+        "description": "Support meaningful causes",
+        "total_amount": 28372,
+        "start_date": "2023-10-14T04:10:44.142Z",
+        "end_date": "2023-10-13T20:09:12.716Z",
+        "created_at": "2023-10-13T07:54:07.142Z",
+        "updated_at": "2023-10-13T18:15:47.999Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3158f2c9-3c05-4123-868d-0ecd9f2dc609",
+        "email": "Bennett96@roq.tech",
+        "firstName": "Eldora",
+        "lastName": "Becker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1224.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c5ea6ab-f8c3-4831-a02a-c7459e5e7afa",
+        "email": "America.Willms@roq.tech",
+        "firstName": "Una",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60451646",
+        "tenantId": null
+      },
+      {
+        "reference": "a5f4a04d-f13d-4b05-90a0-4d58bef4d40b",
+        "email": "Sophia39@roq.tech",
+        "firstName": "Kyleigh",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53334744",
+        "tenantId": null
+      },
+      {
+        "reference": "68278f9d-bc44-4a3f-be39-b23ab9a91cbe",
+        "email": "Remington.Wuckert73@roq.tech",
+        "firstName": "Marcelo",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5758611",
+        "tenantId": null
+      },
+      {
+        "reference": "011a61da-08d7-4e2e-b1e9-67d1dbd36a75",
+        "email": "Devan.Stoltenberg10@roq.tech",
+        "firstName": "Shaylee",
+        "lastName": "Cormier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59647169",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "ade97068-0653-4d01-8fe3-8f27e63f0d8c",
+        "name": "Savings Program",
+        "description": "A program to help you save for the future",
+        "start_date": "2023-10-13T12:11:53.450Z",
+        "end_date": "2023-10-14T04:05:27.971Z",
+        "created_at": "2023-10-13T06:12:26.085Z",
+        "updated_at": "2023-10-13T05:50:48.745Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0e868d6b-064a-448e-9bfb-a9c06a56b753",
+        "name": "Investment Program",
+        "description": "A program to grow your wealth through investments",
+        "start_date": "2023-10-13T07:04:21.893Z",
+        "end_date": "2023-10-13T06:03:59.761Z",
+        "created_at": "2023-10-13T09:09:28.346Z",
+        "updated_at": "2023-10-14T03:49:20.180Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6ae13f3b-ab1e-4997-b1b3-17e189d04252",
+        "name": "Retirement Program",
+        "description": "A program to plan for a comfortable retirement",
+        "start_date": "2023-10-13T10:49:26.696Z",
+        "end_date": "2023-10-13T18:59:37.011Z",
+        "created_at": "2023-10-13T23:54:48.579Z",
+        "updated_at": "2023-10-13T20:42:12.595Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "634ed37c-f458-4570-9b0a-fbd77f682423",
+        "name": "Education Program",
+        "description": "A program to fund your education goals",
+        "start_date": "2023-10-13T08:40:58.873Z",
+        "end_date": "2023-10-14T00:08:23.041Z",
+        "created_at": "2023-10-13T05:36:08.808Z",
+        "updated_at": "2023-10-13T13:47:03.650Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1dc0c333-7b8b-4692-958d-a95086fae9c8",
+        "name": "Debt Management Program",
+        "description": "A program to manage and reduce your debt",
+        "start_date": "2023-10-13T12:02:14.619Z",
+        "end_date": "2023-10-13T12:07:19.885Z",
+        "created_at": "2023-10-13T08:38:58.250Z",
+        "updated_at": "2023-10-13T06:56:12.961Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "8ccd0a66-2d94-43ae-bf4b-0c0122ec51d7",
+        "name": "Budgeting Procedure",
+        "description": "A procedure to create and manage a budget",
+        "implementation_date": "2023-10-13T19:06:08.068Z",
+        "created_at": "2023-10-13T16:10:55.040Z",
+        "updated_at": "2023-10-13T23:26:31.353Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2eb956a0-a851-4d91-97ae-13d084355a28",
+        "name": "Expense Tracking Procedure",
+        "description": "A procedure to track and categorize expenses",
+        "implementation_date": "2023-10-14T04:26:51.890Z",
+        "created_at": "2023-10-14T05:12:36.505Z",
+        "updated_at": "2023-10-14T03:12:37.582Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "75938a4a-0845-455b-85c5-c64b5a76f6aa",
+        "name": "Investment Procedure",
+        "description": "A procedure to make informed investment decisions",
+        "implementation_date": "2023-10-13T17:57:39.484Z",
+        "created_at": "2023-10-13T10:24:11.357Z",
+        "updated_at": "2023-10-13T07:50:50.930Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f0d04794-622b-4ff8-a661-f0bab0c9ff0b",
+        "name": "Debt Repayment Procedure",
+        "description": "A procedure to effectively repay your debts",
+        "implementation_date": "2023-10-13T15:48:34.814Z",
+        "created_at": "2023-10-13T11:18:47.810Z",
+        "updated_at": "2023-10-13T22:31:04.146Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "451377ec-fb7e-413f-b70c-013dc489932d",
+        "name": "Financial Planning Procedure",
+        "description": "A procedure to develop a comprehensive financial plan",
+        "implementation_date": "2023-10-13T07:05:20.880Z",
+        "created_at": "2023-10-13T16:06:12.844Z",
+        "updated_at": "2023-10-13T13:52:52.191Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "ef06de56-fe87-4e05-8547-d7fa14aff655",
+        "name": "Risk Management Policy",
+        "description": "A policy to mitigate and manage financial risks",
+        "implementation_date": "2023-10-14T01:01:13.265Z",
+        "created_at": "2023-10-13T15:27:20.222Z",
+        "updated_at": "2023-10-13T05:42:10.207Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "efdf77ad-3c6e-4cd7-92a3-a9e1f2554d8f",
+        "name": "Asset Allocation Policy",
+        "description": "A policy to determine the allocation of assets",
+        "implementation_date": "2023-10-13T13:50:48.717Z",
+        "created_at": "2023-10-13T11:18:29.457Z",
+        "updated_at": "2023-10-13T22:52:34.032Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7211152d-19b2-4d71-9197-e01fc0108f03",
+        "name": "Diversification Policy",
+        "description": "A policy to diversify investments for better risk management",
+        "implementation_date": "2023-10-13T15:19:02.992Z",
+        "created_at": "2023-10-13T07:12:32.300Z",
+        "updated_at": "2023-10-13T09:24:38.065Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "310255c0-42df-481b-aba0-a00137025869",
+        "name": "Sustainability Policy",
+        "description": "A policy to promote sustainable investing practices",
+        "implementation_date": "2023-10-13T14:03:34.961Z",
+        "created_at": "2023-10-13T14:02:31.589Z",
+        "updated_at": "2023-10-13T13:47:40.755Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "95d06d5d-2c19-4fa0-a02c-123d7f6eb485",
+        "name": "Ethical Investing Policy",
+        "description": "A policy to ensure ethical considerations in investment decisions",
+        "implementation_date": "2023-10-14T02:04:47.354Z",
+        "created_at": "2023-10-13T08:52:47.195Z",
+        "updated_at": "2023-10-13T11:11:13.585Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "e09cd89d-d8e6-4d61-be0d-e7274fe94281",
+        "title": "Retire at 55",
+        "description": "Save and invest to retire comfortably at the age of 55",
+        "target_amount": 2321,
+        "due_date": "2023-10-13T22:58:08.602Z",
+        "created_at": "2023-10-13T14:56:12.817Z",
+        "updated_at": "2023-10-13T11:07:07.339Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1d156129-d1f4-4752-a132-cab55ac1acea",
+        "title": "Buy a Dream Home",
+        "description": "Save for a down payment to buy your dream home",
+        "target_amount": 42125,
+        "due_date": "2023-10-14T04:02:15.596Z",
+        "created_at": "2023-10-14T01:36:32.905Z",
+        "updated_at": "2023-10-14T02:03:22.769Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "aecf2ba5-696c-43a9-aaef-16cb66f4144e",
+        "title": "Pay off Student Loans",
+        "description": "Develop a plan to pay off student loans in a timely manner",
+        "target_amount": 55907,
+        "due_date": "2023-10-13T05:32:17.943Z",
+        "created_at": "2023-10-14T03:10:11.054Z",
+        "updated_at": "2023-10-13T15:28:58.180Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a40217df-9c8d-4e8e-925d-df1577ab5793",
+        "title": "Start a Business",
+        "description": "Create a financial plan to start your own business",
+        "target_amount": 1724,
+        "due_date": "2023-10-13T10:25:47.548Z",
+        "created_at": "2023-10-13T08:05:45.056Z",
+        "updated_at": "2023-10-13T19:28:03.863Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4c8ba07c-8d74-48d4-9fbc-c3a4452844d7",
+        "title": "Travel the World",
+        "description": "Save and budget to fulfill your travel aspirations",
+        "target_amount": 30032,
+        "due_date": "2023-10-13T22:41:12.717Z",
+        "created_at": "2023-10-13T10:57:43.085Z",
+        "updated_at": "2023-10-14T00:40:54.059Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "15c9cf51-f54e-4081-81e1-32d56c27e90f",
+        "name": "Monthly Budget",
+        "description": "A budget to manage monthly expenses and savings",
+        "total_amount": 32176,
+        "start_date": "2023-10-13T08:25:51.798Z",
+        "end_date": "2023-10-13T23:17:38.639Z",
+        "created_at": "2023-10-13T05:55:52.812Z",
+        "updated_at": "2023-10-13T10:43:06.151Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c3e457e4-bfc0-43da-82de-e78bc5f57de4",
+        "name": "Family Budget",
+        "description": "A budget to track and manage family finances",
+        "total_amount": 5734,
+        "start_date": "2023-10-13T09:38:22.594Z",
+        "end_date": "2023-10-13T19:52:31.251Z",
+        "created_at": "2023-10-13T23:25:06.883Z",
+        "updated_at": "2023-10-13T12:42:07.537Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "25c41284-238d-4f7f-9608-e200ab4a60c8",
+        "name": "Travel Budget",
+        "description": "A budget to plan and track expenses for travel",
+        "total_amount": 10233,
+        "start_date": "2023-10-13T11:17:21.403Z",
+        "end_date": "2023-10-14T04:44:56.359Z",
+        "created_at": "2023-10-13T11:50:16.595Z",
+        "updated_at": "2023-10-13T19:12:09.971Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7217a904-e905-4e03-931c-7592cc32a052",
+        "name": "Business Budget",
+        "description": "A budget to manage finances for a business",
+        "total_amount": 6709,
+        "start_date": "2023-10-14T04:45:25.162Z",
+        "end_date": "2023-10-13T10:36:47.076Z",
+        "created_at": "2023-10-13T18:20:44.856Z",
+        "updated_at": "2023-10-13T13:47:36.896Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "48e98d84-56ba-462c-adba-4c7c405b5142",
+        "name": "Personal Budget",
+        "description": "A budget to track personal income and expenses",
+        "total_amount": 30422,
+        "start_date": "2023-10-13T20:45:06.119Z",
+        "end_date": "2023-10-14T02:14:33.404Z",
+        "created_at": "2023-10-13T10:22:59.760Z",
+        "updated_at": "2023-10-13T17:51:33.325Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3a47c413-5077-4d54-a611-52634506dfdd",
+        "email": "Myrna.Gleichner@roq.tech",
+        "firstName": "Bryce",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57641375",
+        "tenantId": null
+      },
+      {
+        "reference": "11ab3ace-3701-4e7b-b661-ed6dc8f6fa90",
+        "email": "Mustafa_Kemmer48@roq.tech",
+        "firstName": "Baby",
+        "lastName": "Graham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/342.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "73b185ea-b74f-432a-affb-4da1b2adda6c",
+        "email": "Jordy_Morissette58@roq.tech",
+        "firstName": "Shayna",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37001794",
+        "tenantId": null
+      },
+      {
+        "reference": "6f4a8c46-f4fc-4023-bbef-5f19747cf790",
+        "email": "Abdullah.Lindgren@roq.tech",
+        "firstName": "Kirstin",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35565755",
+        "tenantId": null
+      },
+      {
+        "reference": "e3061133-dcc1-4079-962b-0867a1e950a2",
+        "email": "Mercedes_Littel10@roq.tech",
+        "firstName": "Leopoldo",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/192.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "b7f64c9f-a9f1-4cfe-a7e9-0dff04cffcaf",
+        "name": "Retirement Savings",
+        "description": "A program to save for retirement",
+        "start_date": "2023-10-13T22:46:59.548Z",
+        "end_date": "2023-10-13T19:51:38.482Z",
+        "created_at": "2023-10-13T17:57:26.987Z",
+        "updated_at": "2023-10-13T18:00:32.130Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "83010f68-b3e8-44e6-8066-1bdd3e495f18",
+        "name": "Education Fund",
+        "description": "A fund for educational expenses",
+        "start_date": "2023-10-13T19:34:47.403Z",
+        "end_date": "2023-10-13T16:42:34.988Z",
+        "created_at": "2023-10-13T23:09:28.057Z",
+        "updated_at": "2023-10-13T19:08:49.010Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "96709cce-6827-4ec7-a4cb-8addec3a4670",
+        "name": "Wealth Management",
+        "description": "Services for managing wealth",
+        "start_date": "2023-10-13T08:53:16.089Z",
+        "end_date": "2023-10-13T06:33:45.955Z",
+        "created_at": "2023-10-13T21:35:33.431Z",
+        "updated_at": "2023-10-14T02:32:16.182Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "5d6304f8-877a-4bb2-9d32-090dfe8850ac",
+        "name": "Debt Reduction",
+        "description": "Strategies to reduce debt",
+        "start_date": "2023-10-13T09:33:53.307Z",
+        "end_date": "2023-10-14T00:28:16.913Z",
+        "created_at": "2023-10-13T15:36:35.813Z",
+        "updated_at": "2023-10-13T14:35:18.799Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "5410276f-b9f0-4555-af82-b5a718b9a8f5",
+        "name": "Investment Portfolio",
+        "description": "Diversified investment portfolio",
+        "start_date": "2023-10-13T10:20:18.761Z",
+        "end_date": "2023-10-14T01:01:33.564Z",
+        "created_at": "2023-10-14T02:22:55.369Z",
+        "updated_at": "2023-10-14T03:49:47.730Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "95684fc2-2a3f-4205-b23b-ca86cf177ef7",
+        "name": "Budget Planning",
+        "description": "Plan and manage your budget effectively",
+        "implementation_date": "2023-10-13T10:36:29.972Z",
+        "created_at": "2023-10-13T23:24:05.051Z",
+        "updated_at": "2023-10-13T17:20:37.448Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "02823a5c-d748-410e-be54-75c24026e8f4",
+        "name": "Expense Tracking",
+        "description": "Track and categorize your expenses",
+        "implementation_date": "2023-10-13T09:53:27.060Z",
+        "created_at": "2023-10-13T23:42:33.608Z",
+        "updated_at": "2023-10-13T20:18:57.514Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e8995b04-dc96-4def-9df4-b452000ed9db",
+        "name": "Income Analysis",
+        "description": "Analyze your income sources",
+        "implementation_date": "2023-10-14T04:16:12.810Z",
+        "created_at": "2023-10-14T01:14:05.259Z",
+        "updated_at": "2023-10-13T10:35:31.539Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8ecfca66-7228-4b31-ac46-71559236e44b",
+        "name": "Risk Assessment",
+        "description": "Assess and manage financial risks",
+        "implementation_date": "2023-10-14T03:27:00.206Z",
+        "created_at": "2023-10-13T11:32:19.222Z",
+        "updated_at": "2023-10-14T02:07:34.953Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "69faaf55-6081-4e21-b92e-7f800027d292",
+        "name": "Financial Forecasting",
+        "description": "Forecast your financial future",
+        "implementation_date": "2023-10-13T08:00:07.741Z",
+        "created_at": "2023-10-14T00:51:55.846Z",
+        "updated_at": "2023-10-13T23:31:03.309Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "d8a14441-a752-447e-9057-67c047923629",
+        "name": "Risk Management",
+        "description": "Manage and mitigate financial risks",
+        "implementation_date": "2023-10-13T16:14:30.670Z",
+        "created_at": "2023-10-13T07:29:55.985Z",
+        "updated_at": "2023-10-13T23:56:55.112Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e0677c64-ef9c-4da2-8392-49a7797bc1da",
+        "name": "Asset Allocation",
+        "description": "Allocate assets for optimal returns",
+        "implementation_date": "2023-10-14T01:18:04.379Z",
+        "created_at": "2023-10-13T13:01:20.396Z",
+        "updated_at": "2023-10-13T15:07:11.200Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c1c5d745-bcec-4a4e-8b43-f35a44279e76",
+        "name": "Tax Planning",
+        "description": "Plan for tax optimization",
+        "implementation_date": "2023-10-13T20:26:23.263Z",
+        "created_at": "2023-10-13T22:25:58.919Z",
+        "updated_at": "2023-10-14T04:18:12.074Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a22ed434-09a3-40c1-93fb-8ff99ddfaee0",
+        "name": "Estate Planning",
+        "description": "Plan for the distribution of assets after death",
+        "implementation_date": "2023-10-13T06:33:22.753Z",
+        "created_at": "2023-10-13T14:05:32.277Z",
+        "updated_at": "2023-10-14T00:54:15.441Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "cd596631-7ba7-4333-b2e2-ab9920f38845",
+        "name": "Retirement Planning",
+        "description": "Plan for a comfortable retirement",
+        "implementation_date": "2023-10-13T22:38:57.298Z",
+        "created_at": "2023-10-14T04:02:20.330Z",
+        "updated_at": "2023-10-13T07:12:18.266Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "f40ee774-701f-48b4-9cf2-93173b5000b6",
+        "title": "Save for a Dream Vacation",
+        "description": "Save enough money for a dream vacation",
+        "target_amount": 34868,
+        "due_date": "2023-10-14T02:58:33.221Z",
+        "created_at": "2023-10-13T23:10:22.469Z",
+        "updated_at": "2023-10-14T04:51:25.939Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "44ba3639-b19f-4b3b-827b-1dba7e67418b",
+        "title": "Buy a New Home",
+        "description": "Purchase a new home for your family",
+        "target_amount": 89560,
+        "due_date": "2023-10-14T04:54:36.240Z",
+        "created_at": "2023-10-13T07:10:04.806Z",
+        "updated_at": "2023-10-13T20:21:20.092Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b9ff9f0e-c88b-4685-b961-f147481ddb7e",
+        "title": "Pay Off Student Loans",
+        "description": "Eliminate student loan debt completely",
+        "target_amount": 35981,
+        "due_date": "2023-10-13T13:00:57.806Z",
+        "created_at": "2023-10-13T15:18:26.883Z",
+        "updated_at": "2023-10-13T14:38:12.749Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "bb6855b7-2d4a-4710-9644-ac9366100cef",
+        "title": "Start a Business",
+        "description": "Start your own successful business",
+        "target_amount": 19141,
+        "due_date": "2023-10-13T08:42:10.352Z",
+        "created_at": "2023-10-13T20:20:38.136Z",
+        "updated_at": "2023-10-14T02:55:58.086Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7fccd9df-96ff-4212-896c-126fb3a6dcbf",
+        "title": "Build an Emergency Fund",
+        "description": "Build a financial safety net for unexpected expenses",
+        "target_amount": 3339,
+        "due_date": "2023-10-13T08:40:10.957Z",
+        "created_at": "2023-10-13T11:45:42.693Z",
+        "updated_at": "2023-10-13T07:21:34.427Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "21cba5ee-886d-42d4-a154-d66d10c609e1",
+        "name": "Monthly Expenses",
+        "description": "Track and manage your monthly expenses",
+        "total_amount": 94254,
+        "start_date": "2023-10-13T14:02:19.137Z",
+        "end_date": "2023-10-14T04:21:55.561Z",
+        "created_at": "2023-10-13T14:03:11.088Z",
+        "updated_at": "2023-10-13T05:25:36.678Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ea190a8b-6cf0-42c0-b728-200ef7447531",
+        "name": "Travel Budget",
+        "description": "Plan and allocate budget for travel",
+        "total_amount": 59853,
+        "start_date": "2023-10-13T20:47:10.567Z",
+        "end_date": "2023-10-13T19:23:00.891Z",
+        "created_at": "2023-10-13T11:32:49.553Z",
+        "updated_at": "2023-10-13T08:12:02.085Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d083b12b-eef9-4fce-a4f8-999690c1de32",
+        "name": "Home Renovation",
+        "description": "Budget for home renovation projects",
+        "total_amount": 97664,
+        "start_date": "2023-10-13T15:45:18.779Z",
+        "end_date": "2023-10-13T17:19:44.589Z",
+        "created_at": "2023-10-13T14:50:19.999Z",
+        "updated_at": "2023-10-14T03:45:06.834Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3ed10cab-d29c-4bfc-b1f1-3dc192e4de49",
+        "name": "Business Development",
+        "description": "Allocate funds for business development",
+        "total_amount": 97934,
+        "start_date": "2023-10-13T08:18:42.749Z",
+        "end_date": "2023-10-13T08:02:51.980Z",
+        "created_at": "2023-10-13T14:15:09.812Z",
+        "updated_at": "2023-10-13T23:19:09.294Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ddd4ce9e-2fc2-4bda-9d9d-c30ddb1f9bd3",
+        "name": "Healthcare Expenses",
+        "description": "Manage and plan for healthcare expenses",
+        "total_amount": 41966,
+        "start_date": "2023-10-13T15:49:49.396Z",
+        "end_date": "2023-10-13T17:45:43.163Z",
+        "created_at": "2023-10-14T05:18:50.974Z",
+        "updated_at": "2023-10-13T15:17:35.756Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "72923489-3576-435f-8050-f70f50b360de",
+        "email": "Lucious93@roq.tech",
+        "firstName": "Merle",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/516030",
+        "tenantId": null
+      },
+      {
+        "reference": "5d4be285-f9c2-462a-b221-f17cd390bdde",
+        "email": "Jermain65@roq.tech",
+        "firstName": "Modesto",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/630.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1f510746-8a13-45ea-bfbd-45a0c6ae404c",
+        "email": "Marcel65@roq.tech",
+        "firstName": "Karli",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27076972",
+        "tenantId": null
+      },
+      {
+        "reference": "4135b097-1306-400d-b884-29083aaebe00",
+        "email": "Ansel.Price@roq.tech",
+        "firstName": "Zackery",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/774.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3ba5a98a-41ef-437a-af64-751d6c6536c1",
+        "email": "Anahi95@roq.tech",
+        "firstName": "Rachelle",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/431.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "e7cdf8cd-5d54-4f4f-9225-630b430808b8",
+        "name": "Retirement Savings",
+        "description": "Plan for a secure retirement",
+        "start_date": "2023-10-14T04:53:42.797Z",
+        "end_date": "2023-10-14T01:01:59.831Z",
+        "created_at": "2023-10-14T03:47:00.291Z",
+        "updated_at": "2023-10-14T03:18:48.044Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4409028a-faab-4368-afbf-0a026cb8064a",
+        "name": "Education Fund",
+        "description": "Save for your child's education",
+        "start_date": "2023-10-13T20:33:27.196Z",
+        "end_date": "2023-10-13T14:24:41.604Z",
+        "created_at": "2023-10-13T11:37:56.669Z",
+        "updated_at": "2023-10-14T03:42:07.529Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e2c3748a-ec6f-4ca3-b0fa-c270eb9c5626",
+        "name": "Wealth Management",
+        "description": "Grow and protect your wealth",
+        "start_date": "2023-10-13T15:38:30.899Z",
+        "end_date": "2023-10-13T13:21:29.705Z",
+        "created_at": "2023-10-13T11:41:43.409Z",
+        "updated_at": "2023-10-14T04:25:15.220Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "60bfc295-e099-4247-bedf-6e5254046624",
+        "name": "Debt Consolidation",
+        "description": "Combine and pay off debts",
+        "start_date": "2023-10-13T21:54:01.351Z",
+        "end_date": "2023-10-14T03:32:16.865Z",
+        "created_at": "2023-10-13T21:25:54.831Z",
+        "updated_at": "2023-10-13T12:12:05.904Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "846f440f-e460-4473-bac0-867399d2deec",
+        "name": "Estate Planning",
+        "description": "Plan for the distribution of assets",
+        "start_date": "2023-10-13T09:26:24.302Z",
+        "end_date": "2023-10-13T06:36:02.946Z",
+        "created_at": "2023-10-13T21:08:15.424Z",
+        "updated_at": "2023-10-13T06:41:56.154Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "2d2523ca-2250-4f1d-8c2f-49a44f60b224",
+        "name": "Investment Strategy",
+        "description": "Develop a personalized investment strategy",
+        "implementation_date": "2023-10-14T04:09:56.694Z",
+        "created_at": "2023-10-14T00:28:52.169Z",
+        "updated_at": "2023-10-13T16:24:38.832Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "235c1cc8-6bd5-466f-9684-c413fb5b56ab",
+        "name": "Risk Assessment",
+        "description": "Assess and manage risk tolerance",
+        "implementation_date": "2023-10-14T01:44:18.628Z",
+        "created_at": "2023-10-13T13:41:37.965Z",
+        "updated_at": "2023-10-14T02:39:17.576Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "912ba8c1-4e3d-4886-a135-485022ae2b6d",
+        "name": "Portfolio Diversification",
+        "description": "Diversify portfolio for optimal returns",
+        "implementation_date": "2023-10-14T00:58:52.866Z",
+        "created_at": "2023-10-14T04:54:07.533Z",
+        "updated_at": "2023-10-14T03:48:14.775Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2bc9301a-f10c-46e2-a893-5862b1a72b27",
+        "name": "Tax Planning",
+        "description": "Minimize tax liabilities",
+        "implementation_date": "2023-10-14T03:58:07.069Z",
+        "created_at": "2023-10-14T02:29:34.902Z",
+        "updated_at": "2023-10-14T02:59:37.273Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a04a314b-0b78-40c6-96e8-87beb7a5d1a0",
+        "name": "Asset Allocation",
+        "description": "Allocate assets based on financial goals",
+        "implementation_date": "2023-10-14T00:48:27.033Z",
+        "created_at": "2023-10-13T14:57:11.183Z",
+        "updated_at": "2023-10-13T10:46:17.161Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "e279f4f5-ee32-4864-bd18-79c3e3ef50f1",
+        "name": "Risk Management",
+        "description": "Implement risk management practices",
+        "implementation_date": "2023-10-14T01:25:44.809Z",
+        "created_at": "2023-10-14T00:24:31.898Z",
+        "updated_at": "2023-10-13T15:15:29.824Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "de20ffd9-0842-4faf-b6a4-7e24e07c8545",
+        "name": "Compliance Standards",
+        "description": "Adhere to compliance standards",
+        "implementation_date": "2023-10-14T02:32:40.356Z",
+        "created_at": "2023-10-13T13:00:54.061Z",
+        "updated_at": "2023-10-14T03:25:50.432Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e8ae6a9a-456e-4e08-b8d1-0f8e88a3fa1c",
+        "name": "Ethical Guidelines",
+        "description": "Follow ethical guidelines",
+        "implementation_date": "2023-10-14T01:39:26.463Z",
+        "created_at": "2023-10-13T16:46:31.766Z",
+        "updated_at": "2023-10-13T20:50:56.864Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "00797a1d-1110-45bc-93fa-141712de3dac",
+        "name": "Investment Policy",
+        "description": "Establish investment policies",
+        "implementation_date": "2023-10-13T10:44:52.181Z",
+        "created_at": "2023-10-13T11:03:38.585Z",
+        "updated_at": "2023-10-13T20:58:34.724Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0d74ff1d-5a92-4ee7-9dbc-fa184957a010",
+        "name": "Data Security",
+        "description": "Ensure data security measures",
+        "implementation_date": "2023-10-13T19:34:36.354Z",
+        "created_at": "2023-10-13T17:07:24.608Z",
+        "updated_at": "2023-10-13T05:31:50.800Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "109ad034-d574-472b-8fad-a27658e6497c",
+        "title": "Retire at 55",
+        "description": "Achieve financial independence by retiring at 55",
+        "target_amount": 49049,
+        "due_date": "2023-10-13T09:55:29.066Z",
+        "created_at": "2023-10-13T19:32:22.839Z",
+        "updated_at": "2023-10-14T02:03:50.826Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b5c152ef-7cea-4788-a34b-989f551d0396",
+        "title": "Pay off mortgage",
+        "description": "Become debt-free by paying off mortgage",
+        "target_amount": 8625,
+        "due_date": "2023-10-14T03:06:55.490Z",
+        "created_at": "2023-10-13T08:18:17.260Z",
+        "updated_at": "2023-10-13T18:32:53.537Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7ec8d7f7-214b-475b-903c-89cdfa588b74",
+        "title": "Start a business",
+        "description": "Become an entrepreneur and start a successful business",
+        "target_amount": 70585,
+        "due_date": "2023-10-13T14:39:21.868Z",
+        "created_at": "2023-10-13T09:34:22.197Z",
+        "updated_at": "2023-10-13T17:17:54.481Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8b417d75-967d-49be-a167-52ea4b5c6301",
+        "title": "Travel the world",
+        "description": "Explore different countries and cultures through travel",
+        "target_amount": 44270,
+        "due_date": "2023-10-13T18:16:08.476Z",
+        "created_at": "2023-10-13T10:50:30.678Z",
+        "updated_at": "2023-10-13T23:28:46.204Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6a8d705c-a4dc-4721-b297-21e2b1391477",
+        "title": "Support charitable causes",
+        "description": "Make a positive impact by supporting charitable organizations",
+        "target_amount": 63434,
+        "due_date": "2023-10-14T02:22:33.305Z",
+        "created_at": "2023-10-13T08:10:38.188Z",
+        "updated_at": "2023-10-13T08:33:46.287Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "84aec1fc-2b62-4c3b-a741-b9f23a061cc0",
+        "name": "Monthly Expenses",
+        "description": "Track and manage monthly expenses",
+        "total_amount": 22178,
+        "start_date": "2023-10-13T10:16:06.519Z",
+        "end_date": "2023-10-13T07:59:15.089Z",
+        "created_at": "2023-10-14T04:44:11.151Z",
+        "updated_at": "2023-10-13T11:19:42.408Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "da7f90e7-6815-48b1-9b66-d1f15d63e193",
+        "name": "Travel Budget",
+        "description": "Plan and allocate budget for travel",
+        "total_amount": 63697,
+        "start_date": "2023-10-13T12:09:41.595Z",
+        "end_date": "2023-10-13T18:08:44.434Z",
+        "created_at": "2023-10-13T22:18:12.738Z",
+        "updated_at": "2023-10-13T15:48:05.792Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "03a0bfb3-26a5-426c-9c8f-d3745a73179f",
+        "name": "Home Renovation",
+        "description": "Budget for home renovation projects",
+        "total_amount": 97380,
+        "start_date": "2023-10-13T23:57:27.147Z",
+        "end_date": "2023-10-13T06:11:29.348Z",
+        "created_at": "2023-10-13T19:19:49.281Z",
+        "updated_at": "2023-10-13T20:36:55.466Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "777625da-702b-460b-b0b1-68ba3809e686",
+        "name": "Education Costs",
+        "description": "Estimate and save for education costs",
+        "total_amount": 93652,
+        "start_date": "2023-10-13T06:10:17.739Z",
+        "end_date": "2023-10-13T16:12:13.941Z",
+        "created_at": "2023-10-14T01:05:16.615Z",
+        "updated_at": "2023-10-13T11:56:28.431Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e22bdf66-9178-4d3e-a8ce-d230d2c47e66",
+        "name": "Entertainment Expenses",
+        "description": "Manage and control entertainment expenses",
+        "total_amount": 62906,
+        "start_date": "2023-10-13T12:38:47.619Z",
+        "end_date": "2023-10-13T21:32:01.003Z",
+        "created_at": "2023-10-13T06:54:36.931Z",
+        "updated_at": "2023-10-13T21:14:58.174Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "34a5a904-3d06-4fc9-82f8-d9ebc2607925",
+        "email": "Alysha24@roq.tech",
+        "firstName": "Carroll",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/898.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49dee01b-376a-4d78-80db-40b4292c759e",
+        "email": "German.Romaguera83@roq.tech",
+        "firstName": "Sydnie",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/764.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3238a8f6-9811-44b1-bba4-a80e9c8ac8b4",
+        "email": "Kamren46@roq.tech",
+        "firstName": "Mario",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32055342",
+        "tenantId": null
+      },
+      {
+        "reference": "82b8d17f-4056-440c-9a36-f7e6194a549e",
+        "email": "Liliane3@roq.tech",
+        "firstName": "Alexis",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30091967",
+        "tenantId": null
+      },
+      {
+        "reference": "db5b5853-af6f-45f6-b7ee-c5f4bff6b32e",
+        "email": "Ewald.Cole83@roq.tech",
+        "firstName": "Christopher",
+        "lastName": "Feeney",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1152.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "5ef1a2a3-378d-468d-a1fe-8934f2a3da2e",
+        "name": "Retirement Savings",
+        "description": "Save for a comfortable retirement",
+        "start_date": "2023-10-13T17:55:42.561Z",
+        "end_date": "2023-10-13T17:25:29.205Z",
+        "created_at": "2023-10-14T03:29:06.345Z",
+        "updated_at": "2023-10-13T20:39:52.577Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e3805df9-a703-4109-9097-2cfb133c1b1d",
+        "name": "Education Fund",
+        "description": "Secure funds for higher education",
+        "start_date": "2023-10-14T04:23:38.587Z",
+        "end_date": "2023-10-13T14:09:53.951Z",
+        "created_at": "2023-10-13T23:58:06.365Z",
+        "updated_at": "2023-10-13T17:05:29.226Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9fad27cf-cf51-424c-8bc3-1e3fa9191ab1",
+        "name": "Investment Portfolio",
+        "description": "Grow your wealth through investments",
+        "start_date": "2023-10-14T04:53:55.049Z",
+        "end_date": "2023-10-13T13:31:57.126Z",
+        "created_at": "2023-10-13T21:01:00.669Z",
+        "updated_at": "2023-10-13T23:26:38.217Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "806b640d-921a-4306-a5f9-ebb573343dab",
+        "name": "Debt Management",
+        "description": "Manage and reduce debt effectively",
+        "start_date": "2023-10-13T05:52:28.729Z",
+        "end_date": "2023-10-13T08:05:27.461Z",
+        "created_at": "2023-10-13T14:55:46.081Z",
+        "updated_at": "2023-10-13T05:59:36.522Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6d05f74f-ad58-4b3f-b9e2-b4b7a9f6cadd",
+        "name": "Financial Planning",
+        "description": "Create a comprehensive financial plan",
+        "start_date": "2023-10-13T17:51:36.963Z",
+        "end_date": "2023-10-13T21:49:07.205Z",
+        "created_at": "2023-10-14T00:51:38.250Z",
+        "updated_at": "2023-10-13T19:33:52.672Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "c1804287-0818-4fad-93b0-4cc2810b6e23",
+        "name": "Expense Reimbursement",
+        "description": "Submit and track expense reimbursements",
+        "implementation_date": "2023-10-13T11:04:28.054Z",
+        "created_at": "2023-10-13T20:47:06.228Z",
+        "updated_at": "2023-10-13T20:38:27.351Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a2dadc42-4182-4e33-819e-97f6e91a077a",
+        "name": "Budget Approval",
+        "description": "Request approval for budget allocations",
+        "implementation_date": "2023-10-13T22:10:34.837Z",
+        "created_at": "2023-10-13T22:29:44.023Z",
+        "updated_at": "2023-10-13T15:16:15.835Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "44fb12be-2154-4381-af2c-79180ae795c3",
+        "name": "Vendor Payment",
+        "description": "Process payments to vendors",
+        "implementation_date": "2023-10-13T20:51:10.814Z",
+        "created_at": "2023-10-14T04:39:20.490Z",
+        "updated_at": "2023-10-13T10:35:51.454Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e824c352-d123-4f15-8fe1-c485f7cf6462",
+        "name": "Invoice Processing",
+        "description": "Manage invoice processing workflow",
+        "implementation_date": "2023-10-14T00:45:10.668Z",
+        "created_at": "2023-10-13T15:37:12.261Z",
+        "updated_at": "2023-10-13T11:55:59.321Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8a650551-55af-4fd7-b8e4-b87f2fd1def3",
+        "name": "Financial Reporting",
+        "description": "Generate financial reports",
+        "implementation_date": "2023-10-13T17:37:36.802Z",
+        "created_at": "2023-10-13T12:28:24.116Z",
+        "updated_at": "2023-10-13T18:30:08.367Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "136344ac-568a-4ffc-bb90-900725d71bb1",
+        "name": "Expense Policy",
+        "description": "Guidelines for expense management",
+        "implementation_date": "2023-10-14T03:33:22.359Z",
+        "created_at": "2023-10-13T15:33:10.409Z",
+        "updated_at": "2023-10-14T02:37:54.852Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "195a0625-a3ce-42d1-a596-3be92cee2fbe",
+        "name": "Budget Policy",
+        "description": "Rules for budget allocation and control",
+        "implementation_date": "2023-10-13T22:09:41.998Z",
+        "created_at": "2023-10-14T01:10:19.927Z",
+        "updated_at": "2023-10-13T21:07:32.848Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "344c9d9b-55aa-43c0-aa97-329eece9fa53",
+        "name": "Payment Policy",
+        "description": "Procedures for payment processing",
+        "implementation_date": "2023-10-13T15:13:18.888Z",
+        "created_at": "2023-10-14T00:43:33.648Z",
+        "updated_at": "2023-10-13T07:15:59.510Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b6761248-42b0-4f5a-bb7a-d774c0eb29a6",
+        "name": "Invoice Policy",
+        "description": "Policies for invoice handling",
+        "implementation_date": "2023-10-13T15:06:45.787Z",
+        "created_at": "2023-10-13T08:37:31.095Z",
+        "updated_at": "2023-10-13T17:36:15.753Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "488550f0-ce63-4933-843b-a30c82f3715b",
+        "name": "Financial Reporting Policy",
+        "description": "Standards for financial reporting",
+        "implementation_date": "2023-10-13T09:54:38.489Z",
+        "created_at": "2023-10-14T02:50:46.435Z",
+        "updated_at": "2023-10-14T02:42:22.144Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "f5b79407-7b41-4b33-9c42-620017976cd7",
+        "title": "Retire at 55",
+        "description": "Save enough to retire comfortably at the age of 55",
+        "target_amount": 48529,
+        "due_date": "2023-10-14T03:27:03.272Z",
+        "created_at": "2023-10-14T00:16:50.407Z",
+        "updated_at": "2023-10-13T16:22:58.966Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b32a13ec-d894-4b74-bff2-5c97ab332b2c",
+        "title": "Pay off student loans",
+        "description": "Eliminate all student loan debt within 5 years",
+        "target_amount": 7111,
+        "due_date": "2023-10-13T16:20:06.491Z",
+        "created_at": "2023-10-13T11:29:48.453Z",
+        "updated_at": "2023-10-13T23:52:19.049Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "18cf2b25-0e9c-4ea9-849e-e98329a3b72a",
+        "title": "Achieve $1 million in savings",
+        "description": "Accumulate a total of $1 million in savings",
+        "target_amount": 13136,
+        "due_date": "2023-10-14T00:42:26.093Z",
+        "created_at": "2023-10-13T22:42:33.710Z",
+        "updated_at": "2023-10-14T02:06:17.773Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c248f7f5-0b36-4e3d-b486-5fbff1db7ef5",
+        "title": "Become debt-free",
+        "description": "Become completely debt-free",
+        "target_amount": 99334,
+        "due_date": "2023-10-13T19:41:35.810Z",
+        "created_at": "2023-10-13T07:27:57.719Z",
+        "updated_at": "2023-10-13T06:37:49.990Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "53fade3f-be31-4348-8e9b-405394357d8b",
+        "title": "Buy a house",
+        "description": "Purchase a house within the next 3 years",
+        "target_amount": 8993,
+        "due_date": "2023-10-14T03:45:36.184Z",
+        "created_at": "2023-10-13T13:35:50.071Z",
+        "updated_at": "2023-10-13T18:27:53.789Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "55683e15-5f1c-4d83-8117-956de5e498ff",
+        "name": "Marketing Budget",
+        "description": "Allocate funds for marketing initiatives",
+        "total_amount": 51736,
+        "start_date": "2023-10-13T15:12:23.251Z",
+        "end_date": "2023-10-14T03:59:23.934Z",
+        "created_at": "2023-10-13T06:53:12.459Z",
+        "updated_at": "2023-10-14T01:10:13.782Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4e347307-b9fe-49c3-9e89-9b76f3cdb639",
+        "name": "Research and Development Budget",
+        "description": "Invest in research and development projects",
+        "total_amount": 86606,
+        "start_date": "2023-10-13T16:18:40.715Z",
+        "end_date": "2023-10-13T06:11:30.824Z",
+        "created_at": "2023-10-14T02:33:45.904Z",
+        "updated_at": "2023-10-13T16:23:26.531Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "637d81aa-f488-456a-92b8-32b886c05ab6",
+        "name": "Operations Budget",
+        "description": "Manage expenses related to daily operations",
+        "total_amount": 99801,
+        "start_date": "2023-10-13T07:24:21.009Z",
+        "end_date": "2023-10-13T17:19:17.863Z",
+        "created_at": "2023-10-13T07:08:27.600Z",
+        "updated_at": "2023-10-14T01:43:17.764Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c01f1f45-b6d0-41b6-aa7f-18a96e3300be",
+        "name": "IT Budget",
+        "description": "Budget for IT infrastructure and software",
+        "total_amount": 51419,
+        "start_date": "2023-10-13T12:53:10.789Z",
+        "end_date": "2023-10-13T15:52:06.463Z",
+        "created_at": "2023-10-13T13:55:03.343Z",
+        "updated_at": "2023-10-13T13:44:56.239Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "726a052a-b689-4b83-9073-941a8032624e",
+        "name": "Training Budget",
+        "description": "Allocate resources for employee training",
+        "total_amount": 81293,
+        "start_date": "2023-10-13T13:43:06.378Z",
+        "end_date": "2023-10-13T23:10:48.771Z",
+        "created_at": "2023-10-13T11:06:10.050Z",
+        "updated_at": "2023-10-13T19:25:06.016Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2ab41728-65a2-4972-aa9a-8513c8d18105",
+        "email": "Caleb.Medhurst-Ritchie42@roq.tech",
+        "firstName": "Brennan",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98997650",
+        "tenantId": null
+      },
+      {
+        "reference": "078a1e96-e3e1-42ad-bab5-c96f46f1f2e9",
+        "email": "Rosemary53@roq.tech",
+        "firstName": "Emery",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/254.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d8fcfa6f-090b-405f-a027-515f792f39c8",
+        "email": "Roslyn.Morar78@roq.tech",
+        "firstName": "Ike",
+        "lastName": "Fisher",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26498565",
+        "tenantId": null
+      },
+      {
+        "reference": "0947bf9f-c855-4b06-b970-4e67da1e1f0f",
+        "email": "Tracey.Paucek@roq.tech",
+        "firstName": "Vena",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/215.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "495ad690-bcc6-4272-840c-ed5517383c82",
+        "email": "Viola_Bernier@roq.tech",
+        "firstName": "Laron",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58664846",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "86e5ec09-97c9-4aff-94fa-3f50cf86e884",
+        "name": "Savings Program",
+        "description": "A program to help individuals save money",
+        "start_date": "2023-10-14T04:04:24.356Z",
+        "end_date": "2023-10-13T09:45:58.764Z",
+        "created_at": "2023-10-13T11:47:30.400Z",
+        "updated_at": "2023-10-13T19:41:55.935Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ee3ab26d-9216-44f4-9401-e9af2f2fc2f5",
+        "name": "Investment Program",
+        "description": "A program to assist with investment decisions",
+        "start_date": "2023-10-13T10:41:16.513Z",
+        "end_date": "2023-10-14T05:18:20.771Z",
+        "created_at": "2023-10-13T22:37:18.783Z",
+        "updated_at": "2023-10-13T07:14:16.310Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "103d5ee7-8103-4b70-b432-18a5cc8a549a",
+        "name": "Retirement Program",
+        "description": "A program to plan for retirement",
+        "start_date": "2023-10-13T11:26:14.766Z",
+        "end_date": "2023-10-14T00:29:10.091Z",
+        "created_at": "2023-10-13T18:58:36.970Z",
+        "updated_at": "2023-10-13T06:47:38.861Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "954198ac-f5a3-4e28-a7da-44cc16bfd83b",
+        "name": "Education Program",
+        "description": "A program to fund education expenses",
+        "start_date": "2023-10-13T09:20:54.728Z",
+        "end_date": "2023-10-13T23:00:11.005Z",
+        "created_at": "2023-10-14T05:08:12.750Z",
+        "updated_at": "2023-10-13T12:52:55.345Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "dfe0a3f2-102d-454d-a69a-32b2447d07a0",
+        "name": "Debt Management Program",
+        "description": "A program to manage and reduce debt",
+        "start_date": "2023-10-13T10:42:30.755Z",
+        "end_date": "2023-10-13T22:41:36.742Z",
+        "created_at": "2023-10-13T11:13:25.263Z",
+        "updated_at": "2023-10-13T19:28:02.216Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "0c62be81-94b0-42f9-85a9-b00c1ce1950f",
+        "name": "Account Opening Procedure",
+        "description": "The procedure for opening a new account",
+        "implementation_date": "2023-10-13T17:50:39.177Z",
+        "created_at": "2023-10-14T03:29:19.542Z",
+        "updated_at": "2023-10-13T17:41:26.093Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "05b3f13d-32f6-4ec5-8278-96a5228fe9bf",
+        "name": "Loan Application Procedure",
+        "description": "The procedure for applying for a loan",
+        "implementation_date": "2023-10-13T22:42:19.013Z",
+        "created_at": "2023-10-14T03:56:48.501Z",
+        "updated_at": "2023-10-13T22:49:04.494Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "d142e8ec-e629-4d91-9a04-bbf63371ea6a",
+        "name": "Investment Procedure",
+        "description": "The procedure for making investments",
+        "implementation_date": "2023-10-14T03:55:48.569Z",
+        "created_at": "2023-10-13T19:22:57.174Z",
+        "updated_at": "2023-10-13T14:23:20.586Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1e564638-1d83-4673-b6ce-cb383115660e",
+        "name": "Insurance Claim Procedure",
+        "description": "The procedure for filing an insurance claim",
+        "implementation_date": "2023-10-13T06:14:29.217Z",
+        "created_at": "2023-10-13T06:17:07.006Z",
+        "updated_at": "2023-10-13T21:58:50.490Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "cf72ebe1-41da-4c90-9a23-5946d0c11aef",
+        "name": "Budgeting Procedure",
+        "description": "The procedure for creating a budget",
+        "implementation_date": "2023-10-14T04:20:21.197Z",
+        "created_at": "2023-10-14T04:27:19.977Z",
+        "updated_at": "2023-10-13T18:25:33.347Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "cd487bba-9626-4230-948a-b2dad18d2ffd",
+        "name": "Risk Management Policy",
+        "description": "The policy for managing risks",
+        "implementation_date": "2023-10-14T02:40:36.860Z",
+        "created_at": "2023-10-13T06:44:36.821Z",
+        "updated_at": "2023-10-13T18:09:09.588Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "5d4c4294-f37d-4551-b5bf-07c75dabf275",
+        "name": "Compliance Policy",
+        "description": "The policy for ensuring compliance",
+        "implementation_date": "2023-10-13T07:12:06.214Z",
+        "created_at": "2023-10-13T13:50:02.203Z",
+        "updated_at": "2023-10-13T22:41:35.495Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7af13dfa-ceee-46c2-86d3-2acec7863e3c",
+        "name": "Ethics Policy",
+        "description": "The policy for promoting ethical behavior",
+        "implementation_date": "2023-10-13T19:52:53.425Z",
+        "created_at": "2023-10-13T14:18:33.371Z",
+        "updated_at": "2023-10-13T13:41:37.157Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9677f309-f430-4a1b-a222-98cf02174fb7",
+        "name": "Privacy Policy",
+        "description": "The policy for protecting privacy",
+        "implementation_date": "2023-10-13T18:45:27.854Z",
+        "created_at": "2023-10-13T09:26:10.988Z",
+        "updated_at": "2023-10-13T08:22:51.231Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e78e959a-0f31-4601-957e-e55d0424fdb2",
+        "name": "Investment Policy",
+        "description": "The policy for guiding investment decisions",
+        "implementation_date": "2023-10-13T18:00:27.910Z",
+        "created_at": "2023-10-13T23:08:25.974Z",
+        "updated_at": "2023-10-13T18:54:57.889Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "7e7513e9-7347-4f7e-81a9-6532b2a0784d",
+        "title": "Save for a Dream Vacation",
+        "description": "Save enough money to go on a dream vacation",
+        "target_amount": 18719,
+        "due_date": "2023-10-14T03:15:26.272Z",
+        "created_at": "2023-10-14T02:08:24.735Z",
+        "updated_at": "2023-10-13T11:33:39.937Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "65ebf674-5067-412f-b613-8d0928d0f4fb",
+        "title": "Pay off Debt",
+        "description": "Eliminate all outstanding debts",
+        "target_amount": 3111,
+        "due_date": "2023-10-13T16:55:37.812Z",
+        "created_at": "2023-10-13T22:38:04.863Z",
+        "updated_at": "2023-10-13T19:13:42.228Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "49f619e0-f1ef-40fc-bd56-42e7cc631da7",
+        "title": "Buy a House",
+        "description": "Purchase a house and become a homeowner",
+        "target_amount": 48898,
+        "due_date": "2023-10-13T20:07:59.670Z",
+        "created_at": "2023-10-14T01:50:12.485Z",
+        "updated_at": "2023-10-13T21:33:33.938Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fa8f9161-60e6-4995-af30-7bd7c70aa5a2",
+        "title": "Start a Business",
+        "description": "Start a successful business venture",
+        "target_amount": 38444,
+        "due_date": "2023-10-13T18:13:46.973Z",
+        "created_at": "2023-10-14T01:19:18.907Z",
+        "updated_at": "2023-10-14T02:53:02.905Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "94052918-a42e-4c65-8cc5-72d2c73a9b3b",
+        "title": "Retire Early",
+        "description": "Achieve financial independence and retire early",
+        "target_amount": 64276,
+        "due_date": "2023-10-13T19:50:37.166Z",
+        "created_at": "2023-10-13T06:37:51.871Z",
+        "updated_at": "2023-10-14T00:17:31.313Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "40efe5a3-b0c6-4feb-a96f-5a5830aad3a6",
+        "name": "Monthly Budget",
+        "description": "A budget plan for managing monthly expenses",
+        "total_amount": 57974,
+        "start_date": "2023-10-13T13:49:23.416Z",
+        "end_date": "2023-10-13T12:14:38.947Z",
+        "created_at": "2023-10-13T14:19:42.028Z",
+        "updated_at": "2023-10-14T03:07:12.430Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "959d4caa-49dc-45c3-88c4-b9369b39fc66",
+        "name": "Annual Budget",
+        "description": "A budget plan for the entire year",
+        "total_amount": 51696,
+        "start_date": "2023-10-13T06:33:19.923Z",
+        "end_date": "2023-10-13T11:47:19.800Z",
+        "created_at": "2023-10-13T15:19:47.691Z",
+        "updated_at": "2023-10-13T21:04:00.751Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c71acdac-f977-4f8f-a966-f633deede4c3",
+        "name": "Project Budget",
+        "description": "A budget plan for a specific project",
+        "total_amount": 58470,
+        "start_date": "2023-10-14T04:03:42.094Z",
+        "end_date": "2023-10-13T17:17:08.090Z",
+        "created_at": "2023-10-13T06:26:05.020Z",
+        "updated_at": "2023-10-13T16:30:36.308Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "62020e32-8571-4d15-aef1-677dff05f606",
+        "name": "Personal Budget",
+        "description": "A budget plan for personal finances",
+        "total_amount": 24986,
+        "start_date": "2023-10-13T14:23:30.378Z",
+        "end_date": "2023-10-13T22:59:18.090Z",
+        "created_at": "2023-10-13T15:07:09.768Z",
+        "updated_at": "2023-10-13T20:50:54.008Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fb635380-c45d-42f0-9086-32ce086d079e",
+        "name": "Business Budget",
+        "description": "A budget plan for business operations",
+        "total_amount": 35466,
+        "start_date": "2023-10-13T07:49:15.954Z",
+        "end_date": "2023-10-13T21:21:18.210Z",
+        "created_at": "2023-10-13T12:49:17.698Z",
+        "updated_at": "2023-10-13T07:14:56.740Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8047b4c8-8b98-4e6f-932a-8176f4eb0d42",
+        "email": "Guido.Koss87@roq.tech",
+        "firstName": "Sarai",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/623.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5de3c682-3dca-4412-983a-ef04166bc291",
+        "email": "Georgiana_Kunze2@roq.tech",
+        "firstName": "Barney",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/794.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e963c951-9455-42e8-b0b2-4e27011582aa",
+        "email": "Sophia.Reilly-Rutherford88@roq.tech",
+        "firstName": "Donnell",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1126.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dd01daf2-2a2c-4213-999c-43d0d2b781e5",
+        "email": "Leatha26@roq.tech",
+        "firstName": "Amber",
+        "lastName": "Nikolaus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38531250",
+        "tenantId": null
+      },
+      {
+        "reference": "bf579639-db4c-4292-9cce-e1443d269316",
+        "email": "Jonathon_Wilderman93@roq.tech",
+        "firstName": "Frederique",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6878274",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "43a5a6ca-59f3-4711-837d-b8140540193f",
+        "name": "Retirement Savings",
+        "description": "Save for retirement and secure your future",
+        "start_date": "2023-10-14T01:34:48.347Z",
+        "end_date": "2023-10-14T00:06:26.466Z",
+        "created_at": "2023-10-13T17:11:15.791Z",
+        "updated_at": "2023-10-13T23:50:30.079Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "07a74a51-680f-407f-8f6a-102dd3c9dbce",
+        "name": "Education Fund",
+        "description": "Plan for your children's education expenses",
+        "start_date": "2023-10-13T18:19:49.998Z",
+        "end_date": "2023-10-13T13:19:19.570Z",
+        "created_at": "2023-10-14T04:03:30.077Z",
+        "updated_at": "2023-10-14T03:33:27.989Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "87c55712-b594-4c11-9908-ab19e540e7b3",
+        "name": "Investment Portfolio",
+        "description": "Grow your wealth through strategic investments",
+        "start_date": "2023-10-14T05:09:31.333Z",
+        "end_date": "2023-10-13T10:24:29.547Z",
+        "created_at": "2023-10-13T08:11:01.152Z",
+        "updated_at": "2023-10-13T19:54:04.333Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "981bdcf7-b3cb-4dd2-8cf4-b0a688aafdc0",
+        "name": "Debt Management",
+        "description": "Manage and reduce your debt effectively",
+        "start_date": "2023-10-14T05:09:52.008Z",
+        "end_date": "2023-10-13T16:58:42.448Z",
+        "created_at": "2023-10-13T07:27:24.770Z",
+        "updated_at": "2023-10-13T15:18:15.347Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "33863408-9498-4869-a114-144bd0ebbb29",
+        "name": "Estate Planning",
+        "description": "Plan the distribution of your assets after death",
+        "start_date": "2023-10-13T23:12:32.692Z",
+        "end_date": "2023-10-13T07:16:59.454Z",
+        "created_at": "2023-10-13T20:55:58.590Z",
+        "updated_at": "2023-10-13T14:27:54.996Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "8966daf9-72f4-4880-9be6-658ccbc44a14",
+        "name": "Budgeting",
+        "description": "Create a budget to manage your finances",
+        "implementation_date": "2023-10-13T08:34:01.229Z",
+        "created_at": "2023-10-14T00:19:50.764Z",
+        "updated_at": "2023-10-14T04:37:01.688Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "afab3ab0-03b1-4349-9104-a8d8a69f18b9",
+        "name": "Tax Planning",
+        "description": "Plan your taxes efficiently and legally",
+        "implementation_date": "2023-10-14T01:59:45.876Z",
+        "created_at": "2023-10-13T18:28:52.061Z",
+        "updated_at": "2023-10-13T09:42:17.443Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3c4128f0-0a59-4bb3-972d-168a70a04a3b",
+        "name": "Insurance Coverage",
+        "description": "Ensure adequate insurance coverage for protection",
+        "implementation_date": "2023-10-13T17:02:30.017Z",
+        "created_at": "2023-10-13T17:36:46.572Z",
+        "updated_at": "2023-10-13T09:07:40.072Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fed661bf-f7a7-45ab-8ba5-b167da333cc3",
+        "name": "Investment Analysis",
+        "description": "Analyze investment opportunities for optimal returns",
+        "implementation_date": "2023-10-13T11:04:33.323Z",
+        "created_at": "2023-10-13T08:39:58.532Z",
+        "updated_at": "2023-10-13T05:38:06.855Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ba29f8b8-1d9d-43d0-ad34-9114e9d8b05c",
+        "name": "Risk Management",
+        "description": "Identify and mitigate financial risks",
+        "implementation_date": "2023-10-13T22:10:27.669Z",
+        "created_at": "2023-10-13T13:22:57.345Z",
+        "updated_at": "2023-10-14T00:03:51.696Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "7259673f-12e3-441e-8534-76ed899560d8",
+        "name": "Sustainable Investing",
+        "description": "Invest in companies with sustainable practices",
+        "implementation_date": "2023-10-13T22:07:52.502Z",
+        "created_at": "2023-10-13T10:31:51.157Z",
+        "updated_at": "2023-10-14T02:56:12.710Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b58d5260-bb1a-44b4-8dd3-90b863c99e49",
+        "name": "Ethical Banking",
+        "description": "Bank with institutions that align with your values",
+        "implementation_date": "2023-10-13T09:21:56.661Z",
+        "created_at": "2023-10-14T04:58:00.890Z",
+        "updated_at": "2023-10-13T11:30:08.220Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "f9d31ec3-8017-478a-86d1-f9f8a694880b",
+        "name": "Social Responsibility",
+        "description": "Support organizations that prioritize social causes",
+        "implementation_date": "2023-10-13T15:55:08.521Z",
+        "created_at": "2023-10-14T00:55:13.906Z",
+        "updated_at": "2023-10-13T17:48:38.935Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "44e41365-7b31-4cc7-8e08-971044f85165",
+        "name": "Corporate Governance",
+        "description": "Invest in companies with strong corporate governance",
+        "implementation_date": "2023-10-13T12:42:05.799Z",
+        "created_at": "2023-10-13T19:24:17.330Z",
+        "updated_at": "2023-10-13T17:09:08.097Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "49a11d80-7f93-4978-b9df-def28dd77779",
+        "name": "Transparency",
+        "description": "Demand transparency in financial transactions",
+        "implementation_date": "2023-10-13T15:22:04.739Z",
+        "created_at": "2023-10-14T03:31:08.253Z",
+        "updated_at": "2023-10-13T21:20:28.326Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "3c90337f-3d36-4ba9-a97e-9183724bd4fb",
+        "title": "Early Retirement",
+        "description": "Retire early and enjoy a fulfilling life",
+        "target_amount": 40614,
+        "due_date": "2023-10-13T23:32:38.832Z",
+        "created_at": "2023-10-13T23:49:50.049Z",
+        "updated_at": "2023-10-14T03:10:51.548Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7ebd9ce9-157b-4443-9bb9-ed801165f351",
+        "title": "Debt-Free Life",
+        "description": "Live a life free from debt and financial stress",
+        "target_amount": 52382,
+        "due_date": "2023-10-14T02:58:12.038Z",
+        "created_at": "2023-10-13T11:53:20.427Z",
+        "updated_at": "2023-10-13T16:58:20.427Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fd593578-d1de-4902-8c69-8336ff872305",
+        "title": "Financial Independence",
+        "description": "Achieve financial independence and freedom",
+        "target_amount": 62192,
+        "due_date": "2023-10-13T13:47:35.957Z",
+        "created_at": "2023-10-13T17:56:42.884Z",
+        "updated_at": "2023-10-13T12:06:55.376Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a4f3b20e-790e-4181-879e-a96655c3a407",
+        "title": "Homeownership",
+        "description": "Own a home and create a stable living environment",
+        "target_amount": 95326,
+        "due_date": "2023-10-13T07:02:41.477Z",
+        "created_at": "2023-10-13T13:21:35.429Z",
+        "updated_at": "2023-10-13T17:19:48.748Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0baaa484-b2a4-401a-bc5b-3ea1c08bd1da",
+        "title": "Travel the World",
+        "description": "Explore different cultures and experience the world",
+        "target_amount": 31259,
+        "due_date": "2023-10-14T00:52:07.290Z",
+        "created_at": "2023-10-13T18:25:03.713Z",
+        "updated_at": "2023-10-13T18:11:00.317Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "842af06a-b9ea-4d71-abf4-7f613be423c8",
+        "name": "Monthly Expenses",
+        "description": "Track and manage your monthly expenses",
+        "total_amount": 16347,
+        "start_date": "2023-10-14T02:41:34.490Z",
+        "end_date": "2023-10-13T16:18:47.348Z",
+        "created_at": "2023-10-13T22:32:40.805Z",
+        "updated_at": "2023-10-13T15:40:31.795Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1fac8fbb-5464-427b-a5b3-224202b900b0",
+        "name": "Vacation Fund",
+        "description": "Save for your dream vacation",
+        "total_amount": 53118,
+        "start_date": "2023-10-13T21:13:53.261Z",
+        "end_date": "2023-10-13T09:16:48.621Z",
+        "created_at": "2023-10-13T18:16:57.378Z",
+        "updated_at": "2023-10-13T22:57:54.610Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c03e83cc-9817-4990-985c-1157256a8f3d",
+        "name": "Emergency Fund",
+        "description": "Build an emergency fund for unexpected expenses",
+        "total_amount": 97701,
+        "start_date": "2023-10-13T07:54:08.459Z",
+        "end_date": "2023-10-13T18:28:38.183Z",
+        "created_at": "2023-10-13T09:39:11.449Z",
+        "updated_at": "2023-10-13T23:22:59.830Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "68f2a2f1-5605-4863-b6e9-61caad9d4bc3",
+        "name": "Home Renovation",
+        "description": "Renovate and improve your home",
+        "total_amount": 12656,
+        "start_date": "2023-10-13T16:58:38.195Z",
+        "end_date": "2023-10-13T12:55:00.809Z",
+        "created_at": "2023-10-13T12:17:36.780Z",
+        "updated_at": "2023-10-14T01:57:03.760Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "10803f28-6e53-4c4f-9206-267a0e3baed9",
+        "name": "Entertainment",
+        "description": "Allocate funds for entertainment and leisure activities",
+        "total_amount": 37189,
+        "start_date": "2023-10-13T09:22:22.483Z",
+        "end_date": "2023-10-13T22:16:44.561Z",
+        "created_at": "2023-10-13T21:42:52.147Z",
+        "updated_at": "2023-10-13T12:57:42.575Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "321c1e21-fbdf-41f2-a7a0-d4ac7229fb7d",
+        "email": "Lillie76@roq.tech",
+        "firstName": "Bianka",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21799150",
+        "tenantId": null
+      },
+      {
+        "reference": "b47e8f75-e8dd-4a32-981f-963df06afe57",
+        "email": "Nora_Wiza2@roq.tech",
+        "firstName": "Brett",
+        "lastName": "Quitzon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/25.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf4cb105-8208-4dbe-8239-cb4614aedbb6",
+        "email": "Garrison18@roq.tech",
+        "firstName": "Rogelio",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/63.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a1c08495-2657-4c0e-9d56-2ee5c002dce2",
+        "email": "Ryleigh.Cassin23@roq.tech",
+        "firstName": "Erich",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1009.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c1666da1-352e-495f-9ca3-d139cc1ee040",
+        "email": "Ismael_Gutkowski91@roq.tech",
+        "firstName": "Gladyce",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "5e5e1148-2d84-4159-8113-571743806964",
+        "name": "Savings Program",
+        "description": "A program to help you save money for the future",
+        "start_date": "2023-10-13T19:07:16.252Z",
+        "end_date": "2023-10-14T03:06:49.434Z",
+        "created_at": "2023-10-13T23:15:41.648Z",
+        "updated_at": "2023-10-13T17:41:16.246Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "79bb9925-e117-438d-88b8-a187b336bafe",
+        "name": "Investment Program",
+        "description": "A program to grow your wealth through investments",
+        "start_date": "2023-10-13T20:15:45.555Z",
+        "end_date": "2023-10-13T23:31:45.913Z",
+        "created_at": "2023-10-13T18:38:48.666Z",
+        "updated_at": "2023-10-14T03:10:57.320Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9de18660-3b27-4652-b91b-2c38ca5b63b0",
+        "name": "Retirement Program",
+        "description": "A program to plan for a comfortable retirement",
+        "start_date": "2023-10-14T01:31:45.468Z",
+        "end_date": "2023-10-14T04:16:54.968Z",
+        "created_at": "2023-10-13T22:14:20.157Z",
+        "updated_at": "2023-10-13T10:38:36.057Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ccb218c7-5915-4033-a5e9-edd76e1e9793",
+        "name": "Education Program",
+        "description": "A program to save for your child's education",
+        "start_date": "2023-10-13T11:43:03.140Z",
+        "end_date": "2023-10-13T12:40:41.177Z",
+        "created_at": "2023-10-13T19:06:32.208Z",
+        "updated_at": "2023-10-13T05:22:39.618Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9dce35be-2da1-4b49-afeb-355eb245162f",
+        "name": "Debt Management Program",
+        "description": "A program to manage and reduce your debt",
+        "start_date": "2023-10-13T05:53:12.470Z",
+        "end_date": "2023-10-13T10:59:29.719Z",
+        "created_at": "2023-10-13T22:03:04.072Z",
+        "updated_at": "2023-10-14T05:09:37.940Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "883ce524-a342-4ed4-bd11-b7d25b0dcec0",
+        "name": "Budgeting Procedure",
+        "description": "A procedure to create and manage a budget",
+        "implementation_date": "2023-10-14T01:32:30.215Z",
+        "created_at": "2023-10-13T17:14:16.386Z",
+        "updated_at": "2023-10-14T00:14:44.800Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "0db51a39-70df-4cb1-8be3-939f12c86455",
+        "name": "Expense Tracking Procedure",
+        "description": "A procedure to track and analyze expenses",
+        "implementation_date": "2023-10-13T18:17:41.923Z",
+        "created_at": "2023-10-13T11:02:00.741Z",
+        "updated_at": "2023-10-13T11:48:04.220Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "3eb913eb-b231-4605-8d1d-fba1d93adc4b",
+        "name": "Investment Procedure",
+        "description": "A procedure to guide investment decisions",
+        "implementation_date": "2023-10-13T16:13:40.407Z",
+        "created_at": "2023-10-13T11:35:30.822Z",
+        "updated_at": "2023-10-14T01:48:36.526Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "788149a9-e81b-411e-ab8d-022fb1905531",
+        "name": "Debt Repayment Procedure",
+        "description": "A procedure to effectively repay debts",
+        "implementation_date": "2023-10-13T20:57:15.100Z",
+        "created_at": "2023-10-13T15:00:03.549Z",
+        "updated_at": "2023-10-13T10:19:26.829Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "91d9f7b1-10fe-4d83-9602-7e1738355d3a",
+        "name": "Financial Reporting Procedure",
+        "description": "A procedure to generate financial reports",
+        "implementation_date": "2023-10-14T00:33:31.405Z",
+        "created_at": "2023-10-13T20:34:01.634Z",
+        "updated_at": "2023-10-13T18:06:10.317Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "6de48146-7830-4c87-b948-60a541eaecd5",
+        "name": "Risk Management Policy",
+        "description": "A policy to identify and manage financial risks",
+        "implementation_date": "2023-10-13T08:40:13.667Z",
+        "created_at": "2023-10-13T15:44:16.972Z",
+        "updated_at": "2023-10-13T19:46:03.170Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7d3e04d4-2702-44d9-8701-c1e062f22319",
+        "name": "Investment Policy",
+        "description": "A policy to guide investment strategies",
+        "implementation_date": "2023-10-14T02:10:39.656Z",
+        "created_at": "2023-10-14T00:08:51.167Z",
+        "updated_at": "2023-10-13T17:09:20.580Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "45374909-c228-4fd0-97eb-72a65cf7099a",
+        "name": "Expense Reimbursement Policy",
+        "description": "A policy for reimbursing employee expenses",
+        "implementation_date": "2023-10-13T22:44:15.033Z",
+        "created_at": "2023-10-13T21:19:36.963Z",
+        "updated_at": "2023-10-13T13:30:50.815Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6e7075b9-8c6f-4231-9b2a-9cd9d0c71f2b",
+        "name": "Credit Card Policy",
+        "description": "A policy for responsible credit card use",
+        "implementation_date": "2023-10-13T06:23:51.570Z",
+        "created_at": "2023-10-13T17:25:59.631Z",
+        "updated_at": "2023-10-13T12:44:44.643Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "ec767ca4-0c6c-4219-9886-f67bba493627",
+        "name": "Financial Controls Policy",
+        "description": "A policy to ensure financial controls and compliance",
+        "implementation_date": "2023-10-13T16:34:01.637Z",
+        "created_at": "2023-10-13T18:48:02.233Z",
+        "updated_at": "2023-10-13T07:11:30.157Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "a5f1dfae-f99b-4902-9d73-b3a67b02dd7e",
+        "title": "Save for a Dream Vacation",
+        "description": "Save enough money to go on a dream vacation to a tropical paradise",
+        "target_amount": 83882,
+        "due_date": "2023-10-14T00:52:03.367Z",
+        "created_at": "2023-10-13T11:45:53.401Z",
+        "updated_at": "2023-10-13T22:15:20.411Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "71f97d29-dd33-4993-a243-985417d23abc",
+        "title": "Buy a New Home",
+        "description": "Purchase a new home for you and your family",
+        "target_amount": 22892,
+        "due_date": "2023-10-13T16:48:41.033Z",
+        "created_at": "2023-10-14T02:43:00.360Z",
+        "updated_at": "2023-10-13T23:40:06.345Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "6e871fe0-fa70-4dcf-8714-9ef07de22451",
+        "title": "Start a Business",
+        "description": "Start your own successful business venture",
+        "target_amount": 45446,
+        "due_date": "2023-10-14T03:29:44.382Z",
+        "created_at": "2023-10-14T02:21:09.569Z",
+        "updated_at": "2023-10-13T20:22:24.718Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "7a83f992-9e88-4e7f-bd50-60b9e7c04e9e",
+        "title": "Pay Off Student Loans",
+        "description": "Become debt-free by paying off your student loans",
+        "target_amount": 80458,
+        "due_date": "2023-10-14T02:12:34.441Z",
+        "created_at": "2023-10-13T06:36:33.362Z",
+        "updated_at": "2023-10-13T06:27:36.431Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e361511b-c294-49a9-bf79-1d057193d01c",
+        "title": "Retire Early",
+        "description": "Achieve financial independence and retire early",
+        "target_amount": 38069,
+        "due_date": "2023-10-13T09:03:23.757Z",
+        "created_at": "2023-10-14T05:03:56.584Z",
+        "updated_at": "2023-10-13T20:30:57.778Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "0f095b6f-21bf-47b1-9188-41fdf422f159",
+        "name": "Monthly Budget",
+        "description": "A budget to manage your monthly expenses",
+        "total_amount": 46131,
+        "start_date": "2023-10-13T07:36:40.789Z",
+        "end_date": "2023-10-14T04:24:06.102Z",
+        "created_at": "2023-10-13T09:18:59.717Z",
+        "updated_at": "2023-10-14T00:27:06.031Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4e1de16a-f1b6-4b65-91ca-2b8b4a45ecd9",
+        "name": "Travel Budget",
+        "description": "A budget to plan and track your travel expenses",
+        "total_amount": 9281,
+        "start_date": "2023-10-13T09:41:16.327Z",
+        "end_date": "2023-10-13T23:53:22.891Z",
+        "created_at": "2023-10-13T18:49:29.008Z",
+        "updated_at": "2023-10-14T01:13:31.731Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "104ef0ce-0764-4803-8766-05f8fe71f0bc",
+        "name": "Wedding Budget",
+        "description": "A budget to organize and control wedding costs",
+        "total_amount": 65278,
+        "start_date": "2023-10-13T13:29:05.993Z",
+        "end_date": "2023-10-14T00:13:34.216Z",
+        "created_at": "2023-10-13T08:30:01.887Z",
+        "updated_at": "2023-10-13T10:13:12.165Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c9b0a7e7-0afa-41b3-bf77-12da8bc5fbcc",
+        "name": "Home Renovation Budget",
+        "description": "A budget to estimate and manage home renovation expenses",
+        "total_amount": 67705,
+        "start_date": "2023-10-14T01:39:34.998Z",
+        "end_date": "2023-10-14T00:13:17.774Z",
+        "created_at": "2023-10-14T05:19:30.215Z",
+        "updated_at": "2023-10-13T08:10:37.690Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "e3671515-09b6-4a90-9370-dc792e7da78f",
+        "name": "Business Startup Budget",
+        "description": "A budget to plan and allocate funds for starting a new business",
+        "total_amount": 11681,
+        "start_date": "2023-10-13T05:33:59.040Z",
+        "end_date": "2023-10-13T23:21:43.571Z",
+        "created_at": "2023-10-14T05:08:16.676Z",
+        "updated_at": "2023-10-13T18:55:21.004Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fcd439c7-6704-4376-a0e5-8591a2208b76",
+        "email": "Milan_Konopelski1@roq.tech",
+        "firstName": "Bridie",
+        "lastName": "Kiehn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19385202",
+        "tenantId": null
+      },
+      {
+        "reference": "b2ee1e53-b373-46b9-b663-aa7be4a097fd",
+        "email": "Oceane.Reilly@roq.tech",
+        "firstName": "Murphy",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/442.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "99f989a4-aae9-4efb-abbc-f565fadf409e",
+        "email": "Josiah5@roq.tech",
+        "firstName": "Clara",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69322967",
+        "tenantId": null
+      },
+      {
+        "reference": "7c24b88f-bd4b-4c50-b8e1-f0d6f245843f",
+        "email": "Oda.Herzog@roq.tech",
+        "firstName": "Filiberto",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/120.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "51c2a478-0c69-4f37-be14-2598acada768",
+        "email": "Janick.Ankunding22@roq.tech",
+        "firstName": "Aniya",
+        "lastName": "Kreiger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/799.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "financial_program": [
+      {
+        "id": "6dce8a47-de4f-4426-8c1d-c50d048648a9",
+        "name": "Savings Program",
+        "description": "Program to save money for future expenses",
+        "start_date": "2023-10-13T23:31:36.367Z",
+        "end_date": "2023-10-14T05:06:21.009Z",
+        "created_at": "2023-10-13T09:39:34.408Z",
+        "updated_at": "2023-10-13T17:40:23.277Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "a7eebf0f-4ae6-4a96-adcd-bb6ae0c52624",
+        "name": "Investment Program",
+        "description": "Program to invest in stocks and bonds",
+        "start_date": "2023-10-13T12:16:40.335Z",
+        "end_date": "2023-10-14T04:45:52.887Z",
+        "created_at": "2023-10-13T09:34:12.613Z",
+        "updated_at": "2023-10-13T18:56:47.381Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "318f96b1-e904-471b-88a6-24c15f9d7473",
+        "name": "Retirement Program",
+        "description": "Program to plan for retirement",
+        "start_date": "2023-10-13T07:59:58.444Z",
+        "end_date": "2023-10-13T15:57:50.936Z",
+        "created_at": "2023-10-13T19:52:59.018Z",
+        "updated_at": "2023-10-14T02:37:29.172Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b6125184-1b6f-4cc8-9951-1f9f13e210ad",
+        "name": "Education Program",
+        "description": "Program to save for education expenses",
+        "start_date": "2023-10-13T19:07:55.505Z",
+        "end_date": "2023-10-13T06:22:53.107Z",
+        "created_at": "2023-10-14T02:40:32.331Z",
+        "updated_at": "2023-10-13T05:48:24.043Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "1f537670-dab6-40ed-a6b1-5f7317b422d6",
+        "name": "Debt Management Program",
+        "description": "Program to manage and reduce debt",
+        "start_date": "2023-10-13T12:23:19.854Z",
+        "end_date": "2023-10-13T12:29:03.081Z",
+        "created_at": "2023-10-13T15:25:44.827Z",
+        "updated_at": "2023-10-13T23:27:48.428Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_procedure": [
+      {
+        "id": "14254796-b6cb-4d21-8dcf-595015006117",
+        "name": "Expense Tracking Procedure",
+        "description": "Procedure to track and categorize expenses",
+        "implementation_date": "2023-10-13T21:04:52.623Z",
+        "created_at": "2023-10-13T21:45:49.766Z",
+        "updated_at": "2023-10-13T08:53:50.551Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fdbb132a-0b31-4f43-9555-18a8d6c21580",
+        "name": "Budgeting Procedure",
+        "description": "Procedure to create and manage a budget",
+        "implementation_date": "2023-10-13T21:33:11.324Z",
+        "created_at": "2023-10-14T05:04:06.125Z",
+        "updated_at": "2023-10-13T14:23:13.001Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9c52a0cb-aefe-4b32-8314-d7a72b84c228",
+        "name": "Investment Procedure",
+        "description": "Procedure to make investment decisions",
+        "implementation_date": "2023-10-14T00:36:18.792Z",
+        "created_at": "2023-10-13T14:37:28.344Z",
+        "updated_at": "2023-10-14T01:17:18.249Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "add999b7-ef13-4ef6-ad59-c4f11e782265",
+        "name": "Tax Planning Procedure",
+        "description": "Procedure to plan for taxes",
+        "implementation_date": "2023-10-13T17:37:59.166Z",
+        "created_at": "2023-10-13T20:40:13.725Z",
+        "updated_at": "2023-10-13T19:44:02.659Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "b630b949-aa2a-40f1-bf16-0b5be32ded0d",
+        "name": "Risk Management Procedure",
+        "description": "Procedure to identify and manage financial risks",
+        "implementation_date": "2023-10-13T21:37:55.246Z",
+        "created_at": "2023-10-13T21:38:28.316Z",
+        "updated_at": "2023-10-13T13:25:40.938Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_policy": [
+      {
+        "id": "18f80d68-b516-4087-a1ca-ac8c74d4239f",
+        "name": "Credit Card Policy",
+        "description": "Policy for responsible use of credit cards",
+        "implementation_date": "2023-10-13T19:57:23.891Z",
+        "created_at": "2023-10-13T10:57:02.724Z",
+        "updated_at": "2023-10-13T09:04:30.697Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "51eac4c0-d869-41f3-9c69-639a9df25af8",
+        "name": "Expense Reimbursement Policy",
+        "description": "Policy for reimbursing employee expenses",
+        "implementation_date": "2023-10-13T19:02:22.820Z",
+        "created_at": "2023-10-14T00:12:56.866Z",
+        "updated_at": "2023-10-14T01:32:31.298Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "2a648c0b-a188-4eb8-9bd6-fa6c86071fdf",
+        "name": "Investment Policy",
+        "description": "Policy for managing investments",
+        "implementation_date": "2023-10-14T02:16:02.236Z",
+        "created_at": "2023-10-14T04:01:08.797Z",
+        "updated_at": "2023-10-13T14:46:58.700Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "fb3096c8-0bbf-402a-a0b6-f3a9c6730a8e",
+        "name": "Travel Policy",
+        "description": "Policy for business travel expenses",
+        "implementation_date": "2023-10-14T01:31:23.910Z",
+        "created_at": "2023-10-14T03:17:40.402Z",
+        "updated_at": "2023-10-13T17:25:48.570Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "77248f9f-7058-4ee4-90ba-0ce0a0c77cc1",
+        "name": "Purchasing Policy",
+        "description": "Policy for purchasing goods and services",
+        "implementation_date": "2023-10-14T01:12:01.238Z",
+        "created_at": "2023-10-13T23:46:56.981Z",
+        "updated_at": "2023-10-13T14:47:17.426Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "financial_goal": [
+      {
+        "id": "48d2032f-9394-474b-90a2-1ca0f73d3c27",
+        "title": "Save for a House",
+        "description": "Goal to save money for purchasing a house",
+        "target_amount": 79437,
+        "due_date": "2023-10-14T05:08:19.923Z",
+        "created_at": "2023-10-13T17:06:56.862Z",
+        "updated_at": "2023-10-13T10:48:50.974Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c5b1581f-2b5a-450e-b31d-6af2999e2b36",
+        "title": "Pay off Debt",
+        "description": "Goal to eliminate all outstanding debts",
+        "target_amount": 46413,
+        "due_date": "2023-10-13T14:21:15.232Z",
+        "created_at": "2023-10-14T03:43:21.896Z",
+        "updated_at": "2023-10-13T05:22:35.757Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "4ce13824-d990-4c48-aaff-fc506f12e246",
+        "title": "Build Emergency Fund",
+        "description": "Goal to establish a fund for unexpected expenses",
+        "target_amount": 43858,
+        "due_date": "2023-10-14T00:44:55.499Z",
+        "created_at": "2023-10-14T00:50:51.772Z",
+        "updated_at": "2023-10-13T13:37:02.579Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8084cf71-e4e2-432d-8e56-eefb2c0f2ac5",
+        "title": "Invest for Retirement",
+        "description": "Goal to save for retirement",
+        "target_amount": 62263,
+        "due_date": "2023-10-13T16:54:16.243Z",
+        "created_at": "2023-10-13T11:11:31.684Z",
+        "updated_at": "2023-10-13T10:51:47.652Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "82a12e4a-cb06-49a6-a50b-e1cf23ad6e2e",
+        "title": "Start a Business",
+        "description": "Goal to start and grow a successful business",
+        "target_amount": 5760,
+        "due_date": "2023-10-13T18:42:35.936Z",
+        "created_at": "2023-10-14T01:40:26.797Z",
+        "updated_at": "2023-10-13T16:14:42.916Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "87196813-f9e9-4e03-bf04-44aa09cf0d41",
+        "name": "Monthly Budget",
+        "description": "Budget for monthly expenses",
+        "total_amount": 74250,
+        "start_date": "2023-10-13T20:09:53.947Z",
+        "end_date": "2023-10-14T02:32:44.840Z",
+        "created_at": "2023-10-14T02:15:14.090Z",
+        "updated_at": "2023-10-13T23:28:40.444Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "9c138bc3-b27c-4e53-af22-7f80d5f32f8d",
+        "name": "Project Budget",
+        "description": "Budget for a specific project",
+        "total_amount": 71786,
+        "start_date": "2023-10-13T11:50:17.959Z",
+        "end_date": "2023-10-13T21:11:05.695Z",
+        "created_at": "2023-10-13T08:00:53.278Z",
+        "updated_at": "2023-10-13T22:00:34.598Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "8df58303-9d71-4ac4-b86b-48f2368e325b",
+        "name": "Travel Budget",
+        "description": "Budget for travel expenses",
+        "total_amount": 98005,
+        "start_date": "2023-10-13T16:20:15.027Z",
+        "end_date": "2023-10-13T06:56:57.056Z",
+        "created_at": "2023-10-13T07:18:32.044Z",
+        "updated_at": "2023-10-13T17:53:25.882Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "095536a9-4434-42ac-9f2a-314670f12429",
+        "name": "Marketing Budget",
+        "description": "Budget for marketing campaigns",
+        "total_amount": 97889,
+        "start_date": "2023-10-13T06:36:56.260Z",
+        "end_date": "2023-10-13T09:39:42.890Z",
+        "created_at": "2023-10-13T05:33:56.713Z",
+        "updated_at": "2023-10-13T17:05:07.085Z",
+        "company_id": "main_entity_pk"
+      },
+      {
+        "id": "c6bd5487-c642-4a4a-bdad-2c101a7e1812",
+        "name": "Event Budget",
+        "description": "Budget for organizing an event",
+        "total_amount": 52959,
+        "start_date": "2023-10-13T06:33:34.076Z",
+        "end_date": "2023-10-13T13:01:55.923Z",
+        "created_at": "2023-10-13T08:12:18.963Z",
+        "updated_at": "2023-10-13T15:40:25.807Z",
+        "company_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e28c9626-725c-4b17-b740-816877430f7a",
+        "email": "Miguel_Stiedemann60@roq.tech",
+        "firstName": "Irving",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6b6c5848-05d2-4823-9c9d-af98ab3e2992",
+        "email": "Nickolas61@roq.tech",
+        "firstName": "Mia",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/691.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f9598a48-3b67-46ca-9fc1-1cc1d1762145",
+        "email": "Alexandrine_Hermiston85@roq.tech",
+        "firstName": "Spencer",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15490826",
+        "tenantId": null
+      },
+      {
+        "reference": "213e3ff7-cf88-4426-8262-0931b672795e",
+        "email": "Nathaniel.Murazik@roq.tech",
+        "firstName": "Gayle",
+        "lastName": "Metz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50529241",
+        "tenantId": null
+      },
+      {
+        "reference": "d61eb643-a050-41f9-9301-9cdf2ccb22df",
+        "email": "Macy_Baumbach50@roq.tech",
+        "firstName": "Raymond",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16902752",
+        "tenantId": null
+      }
+    ]
+  }
+]
